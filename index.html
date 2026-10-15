@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Jumeau Numérique - ensIIE</title>
+    <!-- Importer le design de la carte Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <div id="app">
+        <!-- La carte interactive -->
+        <div id="carte"></div>
+
+        <!-- Le panneau latéral pour les infos et la recherche -->
+        <div id="sidebar">
+            <h2>Jumeau Numérique - ensIIE</h2>
+            
+            <div id="search-container">
+                <input type="text" id="search-input" placeholder="Ex: 104, 105..." />
+                <button id="search-button">Chercher</button>
+            </div>
+
+            <hr style="margin: 20px 0;">
+
+            <div id="info-content">
+                <p>Cliquez sur une pièce de la carte ou cherchez son numéro ci-dessus.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Importer le code de Leaflet -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
