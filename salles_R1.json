@@ -1,0 +1,7717 @@
+[
+  {
+    "id": "101",
+    "feature_index": 41,
+    "numero": "101",
+    "nom": "Amphithéâtre 101",
+    "libelle": "Amphithéâtre",
+    "categorie": "amphi",
+    "categorie_nom": "Amphithéâtre",
+    "surface": 100.0,
+    "capacite": "100 places",
+    "couleur": "#2563eb",
+    "center": [
+      47.152,
+      15.351
+    ],
+    "polygon": [
+      [
+        45.828,
+        10.875
+      ],
+      [
+        45.828,
+        10.915
+      ],
+      [
+        45.354,
+        10.915
+      ],
+      [
+        45.386,
+        11.036
+      ],
+      [
+        45.489,
+        11.178
+      ],
+      [
+        45.635,
+        11.275
+      ],
+      [
+        46.061,
+        11.37
+      ],
+      [
+        45.507,
+        11.479
+      ],
+      [
+        45.242,
+        11.65
+      ],
+      [
+        45.058,
+        11.907
+      ],
+      [
+        44.992,
+        12.175
+      ],
+      [
+        45.828,
+        12.175
+      ],
+      [
+        45.828,
+        12.215
+      ],
+      [
+        45.978,
+        12.245
+      ],
+      [
+        45.978,
+        13.943
+      ],
+      [
+        46.368,
+        13.008
+      ],
+      [
+        46.517,
+        13.07
+      ],
+      [
+        46.383,
+        13.394
+      ],
+      [
+        46.586,
+        13.367
+      ],
+      [
+        46.586,
+        12.934
+      ],
+      [
+        46.636,
+        12.934
+      ],
+      [
+        46.636,
+        12.884
+      ],
+      [
+        47.136,
+        12.884
+      ],
+      [
+        47.136,
+        12.934
+      ],
+      [
+        47.186,
+        12.934
+      ],
+      [
+        47.186,
+        14.234
+      ],
+      [
+        47.136,
+        14.234
+      ],
+      [
+        47.136,
+        14.284
+      ],
+      [
+        46.636,
+        14.284
+      ],
+      [
+        46.636,
+        14.234
+      ],
+      [
+        46.586,
+        14.234
+      ],
+      [
+        46.586,
+        13.885
+      ],
+      [
+        46.203,
+        13.826
+      ],
+      [
+        46.041,
+        14.215
+      ],
+      [
+        46.041,
+        15.045
+      ],
+      [
+        46.078,
+        15.045
+      ],
+      [
+        46.078,
+        16.685
+      ],
+      [
+        46.517,
+        17.74
+      ],
+      [
+        46.367,
+        17.802
+      ],
+      [
+        46.078,
+        17.108
+      ],
+      [
+        46.078,
+        18.145
+      ],
+      [
+        45.978,
+        18.145
+      ],
+      [
+        45.978,
+        18.41
+      ],
+      [
+        45.828,
+        18.44
+      ],
+      [
+        45.828,
+        18.48
+      ],
+      [
+        44.992,
+        18.48
+      ],
+      [
+        45.058,
+        18.748
+      ],
+      [
+        45.242,
+        19.005
+      ],
+      [
+        45.507,
+        19.176
+      ],
+      [
+        46.061,
+        19.285
+      ],
+      [
+        45.635,
+        19.38
+      ],
+      [
+        45.489,
+        19.477
+      ],
+      [
+        45.386,
+        19.619
+      ],
+      [
+        45.354,
+        19.74
+      ],
+      [
+        45.828,
+        19.74
+      ],
+      [
+        45.828,
+        19.78
+      ],
+      [
+        45.978,
+        19.81
+      ],
+      [
+        45.978,
+        20.19
+      ],
+      [
+        54.909,
+        20.19
+      ],
+      [
+        54.909,
+        19.84
+      ],
+      [
+        54.959,
+        19.79
+      ],
+      [
+        55.78,
+        19.79
+      ],
+      [
+        55.78,
+        19.84
+      ],
+      [
+        55.83,
+        19.86
+      ],
+      [
+        56.579,
+        19.86
+      ],
+      [
+        56.579,
+        10.845
+      ],
+      [
+        45.928,
+        10.845
+      ],
+      [
+        45.928,
+        10.875
+      ],
+      [
+        45.828,
+        10.875
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "09:00 - 10:30",
+        "titre": "Lancement Hackathon ensIIE 2026",
+        "promo": "Promo 2026 & 2027",
+        "statut": "Passé"
+      },
+      {
+        "heure": "10:30 - 16:30",
+        "titre": "Hackathon : Session de travail autonome",
+        "promo": "Toutes promos",
+        "statut": "En cours",
+        "actuel": true
+      },
+      {
+        "heure": "16:30 - 18:00",
+        "titre": "Conférence Souveraineté Numérique",
+        "promo": "Ouvert à tous",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1101",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-101.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "102",
+    "feature_index": 42,
+    "numero": "102",
+    "nom": "Amphithéâtre 102",
+    "libelle": "Amphithéâtre",
+    "categorie": "amphi",
+    "categorie_nom": "Amphithéâtre",
+    "surface": 97.6,
+    "capacite": "100 places",
+    "couleur": "#2563eb",
+    "center": [
+      46.599,
+      6.149
+    ],
+    "polygon": [
+      [
+        45.648,
+        3.07
+      ],
+      [
+        45.648,
+        3.19
+      ],
+      [
+        45.978,
+        3.19
+      ],
+      [
+        45.978,
+        3.41
+      ],
+      [
+        46.078,
+        3.41
+      ],
+      [
+        46.078,
+        4.447
+      ],
+      [
+        46.367,
+        3.753
+      ],
+      [
+        46.517,
+        3.815
+      ],
+      [
+        46.078,
+        4.87
+      ],
+      [
+        46.078,
+        6.51
+      ],
+      [
+        46.041,
+        6.51
+      ],
+      [
+        46.041,
+        7.34
+      ],
+      [
+        46.244,
+        7.828
+      ],
+      [
+        46.298,
+        7.743
+      ],
+      [
+        46.586,
+        7.702
+      ],
+      [
+        46.586,
+        7.251
+      ],
+      [
+        47.186,
+        7.251
+      ],
+      [
+        47.186,
+        8.651
+      ],
+      [
+        46.586,
+        8.651
+      ],
+      [
+        46.586,
+        8.199
+      ],
+      [
+        46.387,
+        8.172
+      ],
+      [
+        46.517,
+        8.485
+      ],
+      [
+        46.368,
+        8.547
+      ],
+      [
+        45.978,
+        7.612
+      ],
+      [
+        45.978,
+        9.225
+      ],
+      [
+        45.828,
+        9.255
+      ],
+      [
+        45.828,
+        9.295
+      ],
+      [
+        44.992,
+        9.295
+      ],
+      [
+        45.058,
+        9.563
+      ],
+      [
+        45.242,
+        9.819
+      ],
+      [
+        45.507,
+        9.991
+      ],
+      [
+        46.061,
+        10.099
+      ],
+      [
+        45.635,
+        10.195
+      ],
+      [
+        45.489,
+        10.292
+      ],
+      [
+        45.386,
+        10.434
+      ],
+      [
+        45.354,
+        10.555
+      ],
+      [
+        45.828,
+        10.555
+      ],
+      [
+        45.828,
+        10.595
+      ],
+      [
+        45.928,
+        10.595
+      ],
+      [
+        45.928,
+        10.625
+      ],
+      [
+        56.579,
+        10.625
+      ],
+      [
+        56.579,
+        1.61
+      ],
+      [
+        55.393,
+        1.61
+      ],
+      [
+        55.393,
+        1.68
+      ],
+      [
+        45.928,
+        1.68
+      ],
+      [
+        45.928,
+        1.77
+      ],
+      [
+        45.828,
+        1.77
+      ],
+      [
+        45.828,
+        1.81
+      ],
+      [
+        45.354,
+        1.81
+      ],
+      [
+        45.386,
+        1.931
+      ],
+      [
+        45.489,
+        2.073
+      ],
+      [
+        45.635,
+        2.17
+      ],
+      [
+        46.061,
+        2.265
+      ],
+      [
+        45.507,
+        2.374
+      ],
+      [
+        45.242,
+        2.545
+      ],
+      [
+        45.058,
+        2.802
+      ],
+      [
+        44.992,
+        3.07
+      ],
+      [
+        45.648,
+        3.07
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "08:30 - 11:30",
+        "titre": "Conférence Architecture Microservices",
+        "promo": "3A Systèmes d'Information",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "11:30 - 14:00",
+        "titre": "Amphi Libre / Pause Déjeuner",
+        "promo": "Libre",
+        "statut": "Libre"
+      },
+      {
+        "heure": "14:00 - 17:00",
+        "titre": "Projet Hackathon : Mentorat",
+        "promo": "Équipes P1 & P2",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1102",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-102.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "103",
+    "feature_index": 74,
+    "numero": "103",
+    "nom": "Rotonde – 1er Étage",
+    "libelle": "Rotonde",
+    "categorie": "rotonde",
+    "categorie_nom": "Espace Central / Vie Étudiante",
+    "surface": 105.0,
+    "capacite": "150 personnes",
+    "couleur": "#9333ea",
+    "center": [
+      36.325,
+      10.434
+    ],
+    "polygon": [
+      [
+        34.712,
+        14.01
+      ],
+      [
+        41.032,
+        14.01
+      ],
+      [
+        41.032,
+        14.06
+      ],
+      [
+        41.082,
+        14.06
+      ],
+      [
+        41.062,
+        14.16
+      ],
+      [
+        41.102,
+        14.16
+      ],
+      [
+        41.103,
+        14.996
+      ],
+      [
+        41.37,
+        14.93
+      ],
+      [
+        41.627,
+        14.746
+      ],
+      [
+        41.799,
+        14.48
+      ],
+      [
+        41.863,
+        14.15
+      ],
+      [
+        41.961,
+        14.167
+      ],
+      [
+        42.002,
+        14.353
+      ],
+      [
+        42.099,
+        14.499
+      ],
+      [
+        42.241,
+        14.601
+      ],
+      [
+        42.362,
+        14.633
+      ],
+      [
+        42.362,
+        14.159
+      ],
+      [
+        42.402,
+        14.159
+      ],
+      [
+        42.382,
+        14.059
+      ],
+      [
+        42.432,
+        14.059
+      ],
+      [
+        42.449,
+        14.009
+      ],
+      [
+        42.449,
+        8.895
+      ],
+      [
+        42.424,
+        8.391
+      ],
+      [
+        42.349,
+        7.893
+      ],
+      [
+        42.196,
+        7.316
+      ],
+      [
+        41.975,
+        6.757
+      ],
+      [
+        41.688,
+        6.227
+      ],
+      [
+        41.344,
+        5.74
+      ],
+      [
+        40.72,
+        5.089
+      ],
+      [
+        39.995,
+        4.561
+      ],
+      [
+        39.733,
+        4.414
+      ],
+      [
+        38.897,
+        4.067
+      ],
+      [
+        38.319,
+        3.926
+      ],
+      [
+        37.72,
+        3.852
+      ],
+      [
+        37.115,
+        3.848
+      ],
+      [
+        36.524,
+        3.917
+      ],
+      [
+        35.939,
+        4.056
+      ],
+      [
+        35.419,
+        4.245
+      ],
+      [
+        35.963,
+        5.49
+      ],
+      [
+        35.917,
+        5.51
+      ],
+      [
+        35.939,
+        5.555
+      ],
+      [
+        35.848,
+        5.6
+      ],
+      [
+        35.826,
+        5.555
+      ],
+      [
+        35.78,
+        5.575
+      ],
+      [
+        34.959,
+        3.695
+      ],
+      [
+        34.232,
+        4.089
+      ],
+      [
+        33.469,
+        4.69
+      ],
+      [
+        32.817,
+        5.412
+      ],
+      [
+        32.32,
+        6.196
+      ],
+      [
+        34.054,
+        7.099
+      ],
+      [
+        34.031,
+        7.143
+      ],
+      [
+        34.074,
+        7.169
+      ],
+      [
+        34.023,
+        7.255
+      ],
+      [
+        33.98,
+        7.229
+      ],
+      [
+        33.957,
+        7.274
+      ],
+      [
+        31.614,
+        6.054
+      ],
+      [
+        31.25,
+        6.929
+      ],
+      [
+        31.007,
+        7.991
+      ],
+      [
+        30.946,
+        9.08
+      ],
+      [
+        31.065,
+        10.121
+      ],
+      [
+        33.254,
+        9.679
+      ],
+      [
+        33.264,
+        9.728
+      ],
+      [
+        33.313,
+        9.719
+      ],
+      [
+        33.33,
+        9.818
+      ],
+      [
+        33.281,
+        9.826
+      ],
+      [
+        33.291,
+        9.875
+      ],
+      [
+        30.411,
+        10.457
+      ],
+      [
+        30.493,
+        10.932
+      ],
+      [
+        30.683,
+        11.52
+      ],
+      [
+        30.951,
+        12.07
+      ],
+      [
+        31.29,
+        12.577
+      ],
+      [
+        31.697,
+        13.031
+      ],
+      [
+        32.164,
+        13.427
+      ],
+      [
+        32.686,
+        13.756
+      ],
+      [
+        33.252,
+        14.01
+      ],
+      [
+        33.312,
+        14.01
+      ],
+      [
+        33.312,
+        14.06
+      ],
+      [
+        33.362,
+        14.06
+      ],
+      [
+        33.342,
+        14.16
+      ],
+      [
+        33.382,
+        14.16
+      ],
+      [
+        33.382,
+        14.634
+      ],
+      [
+        33.503,
+        14.602
+      ],
+      [
+        33.645,
+        14.499
+      ],
+      [
+        33.742,
+        14.354
+      ],
+      [
+        33.783,
+        14.168
+      ],
+      [
+        33.881,
+        14.15
+      ],
+      [
+        33.945,
+        14.481
+      ],
+      [
+        34.117,
+        14.746
+      ],
+      [
+        34.374,
+        14.93
+      ],
+      [
+        34.642,
+        14.996
+      ],
+      [
+        34.642,
+        14.16
+      ],
+      [
+        34.682,
+        14.16
+      ],
+      [
+        34.662,
+        14.06
+      ],
+      [
+        34.712,
+        14.06
+      ],
+      [
+        34.712,
+        14.01
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Journée",
+        "titre": "Espace d'exposition et carrefour de rencontres",
+        "promo": "Tous publics",
+        "statut": "Accès libre",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": true,
+    "image": "images/103.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1103",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-103.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "104",
+    "feature_index": 0,
+    "numero": "104",
+    "nom": "Bureau 104 – Massinissa Merabet",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 26.0,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      25.091,
+      4.379
+    ],
+    "polygon": [
+      [
+        23.242,
+        1.71
+      ],
+      [
+        23.242,
+        7.66
+      ],
+      [
+        23.771,
+        7.66
+      ],
+      [
+        23.771,
+        6.771
+      ],
+      [
+        23.866,
+        6.771
+      ],
+      [
+        23.878,
+        6.722
+      ],
+      [
+        24.238,
+        6.811
+      ],
+      [
+        24.538,
+        7.026
+      ],
+      [
+        24.739,
+        7.336
+      ],
+      [
+        24.802,
+        7.66
+      ],
+      [
+        25.992,
+        7.66
+      ],
+      [
+        25.992,
+        6.26
+      ],
+      [
+        27.792,
+        6.26
+      ],
+      [
+        27.792,
+        1.71
+      ],
+      [
+        26.862,
+        1.71
+      ],
+      [
+        26.842,
+        1.51
+      ],
+      [
+        25.932,
+        1.51
+      ],
+      [
+        25.855,
+        1.82
+      ],
+      [
+        25.65,
+        2.112
+      ],
+      [
+        25.353,
+        2.311
+      ],
+      [
+        25.003,
+        2.388
+      ],
+      [
+        24.992,
+        2.339
+      ],
+      [
+        24.942,
+        2.339
+      ],
+      [
+        24.942,
+        1.71
+      ],
+      [
+        23.242,
+        1.71
+      ]
+    ],
+    "occupant": {
+      "responsable": "Massinissa Merabet, Stefania Dumbrava",
+      "role": "Enseignants-Chercheurs ensIIE",
+      "email": "merabet@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Massinissa Merabet, Stefania Dumbrava",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1104",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-104.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "105",
+    "feature_index": 1,
+    "numero": "105",
+    "nom": "Bureau 105 – Vathana Ly Vath",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 14.8,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      21.377,
+      4.636
+    ],
+    "polygon": [
+      [
+        20.717,
+        6.771
+      ],
+      [
+        20.772,
+        6.771
+      ],
+      [
+        20.784,
+        6.722
+      ],
+      [
+        21.145,
+        6.811
+      ],
+      [
+        21.445,
+        7.026
+      ],
+      [
+        21.645,
+        7.336
+      ],
+      [
+        21.709,
+        7.66
+      ],
+      [
+        23.042,
+        7.66
+      ],
+      [
+        23.042,
+        1.51
+      ],
+      [
+        22.132,
+        1.51
+      ],
+      [
+        22.055,
+        1.82
+      ],
+      [
+        21.85,
+        2.112
+      ],
+      [
+        21.553,
+        2.311
+      ],
+      [
+        21.203,
+        2.388
+      ],
+      [
+        21.192,
+        2.339
+      ],
+      [
+        21.142,
+        2.339
+      ],
+      [
+        21.142,
+        1.76
+      ],
+      [
+        20.717,
+        1.78
+      ],
+      [
+        20.717,
+        5.51
+      ],
+      [
+        21.117,
+        5.51
+      ],
+      [
+        21.117,
+        6.11
+      ],
+      [
+        20.717,
+        6.11
+      ],
+      [
+        20.717,
+        6.771
+      ]
+    ],
+    "occupant": {
+      "responsable": "Vathana Ly Vath",
+      "role": "Enseignant-Chercheur (Finance & Maths)",
+      "email": "vathana.lyvath@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Vathana Ly Vath",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1105",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-105.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "106",
+    "feature_index": 2,
+    "numero": "106",
+    "nom": "Bureau 106 – Bureau Enseignants",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 14.9,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      19.308,
+      3.903
+    ],
+    "polygon": [
+      [
+        18.217,
+        1.78
+      ],
+      [
+        18.217,
+        7.66
+      ],
+      [
+        19.526,
+        7.66
+      ],
+      [
+        19.59,
+        7.336
+      ],
+      [
+        19.79,
+        7.026
+      ],
+      [
+        20.09,
+        6.811
+      ],
+      [
+        20.451,
+        6.722
+      ],
+      [
+        20.463,
+        6.771
+      ],
+      [
+        20.517,
+        6.771
+      ],
+      [
+        20.517,
+        1.78
+      ],
+      [
+        20.212,
+        1.76
+      ],
+      [
+        20.192,
+        1.51
+      ],
+      [
+        19.282,
+        1.51
+      ],
+      [
+        19.205,
+        1.82
+      ],
+      [
+        19.0,
+        2.112
+      ],
+      [
+        18.703,
+        2.311
+      ],
+      [
+        18.353,
+        2.388
+      ],
+      [
+        18.342,
+        2.339
+      ],
+      [
+        18.292,
+        2.339
+      ],
+      [
+        18.292,
+        1.78
+      ],
+      [
+        18.217,
+        1.78
+      ]
+    ],
+    "occupant": {
+      "responsable": "Bureau Enseignants",
+      "role": "Corps professoral ensIIE",
+      "email": "contact106@ensiie.fr",
+      "dispo": "Disponible"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Bureau Enseignants",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1106",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-106.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "107",
+    "feature_index": 3,
+    "numero": "107",
+    "nom": "Bureau 107 – Mathilde Mougeot",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 14.6,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      16.638,
+      3.824
+    ],
+    "polygon": [
+      [
+        15.718,
+        1.78
+      ],
+      [
+        15.717,
+        6.771
+      ],
+      [
+        15.772,
+        6.771
+      ],
+      [
+        15.784,
+        6.722
+      ],
+      [
+        16.145,
+        6.811
+      ],
+      [
+        16.445,
+        7.026
+      ],
+      [
+        16.645,
+        7.336
+      ],
+      [
+        16.709,
+        7.66
+      ],
+      [
+        18.017,
+        7.66
+      ],
+      [
+        18.017,
+        1.78
+      ],
+      [
+        17.392,
+        1.78
+      ],
+      [
+        17.342,
+        1.73
+      ],
+      [
+        17.342,
+        1.669
+      ],
+      [
+        17.305,
+        1.82
+      ],
+      [
+        17.1,
+        2.112
+      ],
+      [
+        16.803,
+        2.311
+      ],
+      [
+        16.453,
+        2.388
+      ],
+      [
+        16.442,
+        2.339
+      ],
+      [
+        16.392,
+        2.339
+      ],
+      [
+        16.392,
+        1.76
+      ],
+      [
+        16.392,
+        1.78
+      ],
+      [
+        15.718,
+        1.78
+      ]
+    ],
+    "occupant": {
+      "responsable": "Mathilde Mougeot",
+      "role": "Enseignante-Chercheuse (Machine Learning & Data)",
+      "email": "mathilde.mougeot@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Mathilde Mougeot",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1107",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-107.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "108",
+    "feature_index": 4,
+    "numero": "108",
+    "nom": "Bureau 108 – Nicolas Brunel",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 14.9,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      14.426,
+      3.901
+    ],
+    "polygon": [
+      [
+        13.217,
+        1.78
+      ],
+      [
+        13.217,
+        7.66
+      ],
+      [
+        14.526,
+        7.66
+      ],
+      [
+        14.59,
+        7.336
+      ],
+      [
+        14.79,
+        7.026
+      ],
+      [
+        15.09,
+        6.811
+      ],
+      [
+        15.451,
+        6.722
+      ],
+      [
+        15.463,
+        6.771
+      ],
+      [
+        15.518,
+        6.771
+      ],
+      [
+        15.518,
+        1.78
+      ],
+      [
+        15.442,
+        1.73
+      ],
+      [
+        15.442,
+        1.51
+      ],
+      [
+        14.532,
+        1.51
+      ],
+      [
+        14.455,
+        1.82
+      ],
+      [
+        14.25,
+        2.112
+      ],
+      [
+        13.953,
+        2.311
+      ],
+      [
+        13.603,
+        2.388
+      ],
+      [
+        13.592,
+        2.339
+      ],
+      [
+        13.542,
+        2.339
+      ],
+      [
+        13.542,
+        1.76
+      ],
+      [
+        13.217,
+        1.78
+      ]
+    ],
+    "occupant": {
+      "responsable": "Nicolas Brunel",
+      "role": "Enseignant-Chercheur (Statistiques & IA)",
+      "email": "nicolas.brunel@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Nicolas Brunel",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1108",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-108.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "109",
+    "feature_index": 5,
+    "numero": "109",
+    "nom": "Bureau 109 – Abass Sagna",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 14.9,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      11.54,
+      4.036
+    ],
+    "polygon": [
+      [
+        10.717,
+        2.339
+      ],
+      [
+        10.717,
+        6.771
+      ],
+      [
+        10.772,
+        6.771
+      ],
+      [
+        10.784,
+        6.722
+      ],
+      [
+        11.145,
+        6.811
+      ],
+      [
+        11.445,
+        7.026
+      ],
+      [
+        11.645,
+        7.336
+      ],
+      [
+        11.709,
+        7.66
+      ],
+      [
+        13.017,
+        7.66
+      ],
+      [
+        13.017,
+        1.78
+      ],
+      [
+        12.642,
+        1.78
+      ],
+      [
+        12.592,
+        1.73
+      ],
+      [
+        12.592,
+        1.51
+      ],
+      [
+        11.682,
+        1.51
+      ],
+      [
+        11.605,
+        1.82
+      ],
+      [
+        11.4,
+        2.112
+      ],
+      [
+        11.103,
+        2.311
+      ],
+      [
+        10.753,
+        2.388
+      ],
+      [
+        10.742,
+        2.339
+      ],
+      [
+        10.717,
+        2.339
+      ]
+    ],
+    "occupant": {
+      "responsable": "Abass Sagna",
+      "role": "Enseignant-Chercheur (Mathématiques Financières)",
+      "email": "abass.sagna@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Abass Sagna",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1109",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-109.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "110",
+    "feature_index": 6,
+    "numero": "110",
+    "nom": "Bureau 110 – Catherine Dubois",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 14.6,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      9.425,
+      4.091
+    ],
+    "polygon": [
+      [
+        8.217,
+        7.66
+      ],
+      [
+        9.526,
+        7.66
+      ],
+      [
+        9.59,
+        7.336
+      ],
+      [
+        9.79,
+        7.026
+      ],
+      [
+        10.09,
+        6.811
+      ],
+      [
+        10.451,
+        6.722
+      ],
+      [
+        10.463,
+        6.771
+      ],
+      [
+        10.517,
+        6.771
+      ],
+      [
+        10.517,
+        1.78
+      ],
+      [
+        9.792,
+        1.78
+      ],
+      [
+        9.742,
+        1.73
+      ],
+      [
+        9.742,
+        1.669
+      ],
+      [
+        9.705,
+        1.82
+      ],
+      [
+        9.5,
+        2.112
+      ],
+      [
+        9.203,
+        2.311
+      ],
+      [
+        8.853,
+        2.388
+      ],
+      [
+        8.842,
+        2.339
+      ],
+      [
+        8.792,
+        2.339
+      ],
+      [
+        8.792,
+        1.76
+      ],
+      [
+        8.792,
+        1.78
+      ],
+      [
+        8.217,
+        1.78
+      ],
+      [
+        8.217,
+        7.66
+      ]
+    ],
+    "occupant": {
+      "responsable": "Catherine Dubois",
+      "role": "Enseignante-Chercheuse (Informatique & Logique)",
+      "email": "catherine.dubois@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Catherine Dubois",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1110",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-110.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "111",
+    "feature_index": 7,
+    "numero": "111",
+    "nom": "Bureau 111 – David Roussel",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 22.2,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      6.539,
+      5.81
+    ],
+    "polygon": [
+      [
+        5.327,
+        3.285
+      ],
+      [
+        5.478,
+        3.322
+      ],
+      [
+        5.769,
+        3.528
+      ],
+      [
+        5.968,
+        3.824
+      ],
+      [
+        6.045,
+        4.174
+      ],
+      [
+        5.997,
+        4.185
+      ],
+      [
+        5.997,
+        4.235
+      ],
+      [
+        5.418,
+        4.235
+      ],
+      [
+        5.437,
+        7.035
+      ],
+      [
+        5.387,
+        7.085
+      ],
+      [
+        5.167,
+        7.085
+      ],
+      [
+        5.167,
+        7.996
+      ],
+      [
+        5.478,
+        8.072
+      ],
+      [
+        5.769,
+        8.278
+      ],
+      [
+        5.968,
+        8.574
+      ],
+      [
+        6.045,
+        8.924
+      ],
+      [
+        5.997,
+        8.935
+      ],
+      [
+        5.997,
+        8.985
+      ],
+      [
+        5.417,
+        8.985
+      ],
+      [
+        5.438,
+        9.293
+      ],
+      [
+        7.817,
+        9.273
+      ],
+      [
+        7.769,
+        9.259
+      ],
+      [
+        7.854,
+        8.913
+      ],
+      [
+        8.06,
+        8.625
+      ],
+      [
+        8.358,
+        8.433
+      ],
+      [
+        8.473,
+        8.41
+      ],
+      [
+        8.307,
+        8.3
+      ],
+      [
+        8.183,
+        8.128
+      ],
+      [
+        8.129,
+        7.926
+      ],
+      [
+        8.177,
+        7.913
+      ],
+      [
+        8.177,
+        7.86
+      ],
+      [
+        8.067,
+        7.86
+      ],
+      [
+        8.067,
+        7.81
+      ],
+      [
+        8.017,
+        7.81
+      ],
+      [
+        8.017,
+        2.01
+      ],
+      [
+        6.892,
+        2.01
+      ],
+      [
+        6.892,
+        1.669
+      ],
+      [
+        6.855,
+        1.82
+      ],
+      [
+        6.65,
+        2.112
+      ],
+      [
+        6.353,
+        2.311
+      ],
+      [
+        6.003,
+        2.388
+      ],
+      [
+        5.992,
+        2.339
+      ],
+      [
+        5.942,
+        2.339
+      ],
+      [
+        5.942,
+        1.76
+      ],
+      [
+        5.437,
+        1.78
+      ],
+      [
+        5.438,
+        3.235
+      ],
+      [
+        5.388,
+        3.285
+      ],
+      [
+        5.327,
+        3.285
+      ]
+    ],
+    "occupant": {
+      "responsable": "David Roussel, Guillaume Bouyer",
+      "role": "Enseignants-Chercheurs (Réalité Virtuelle & Systèmes)",
+      "email": "david.roussel@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : David Roussel, Guillaume Bouyer",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1111",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-111.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "112",
+    "feature_index": 12,
+    "numero": "112",
+    "nom": "Bureau 112 – Anne-Laure Ligozat",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 11.4,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      7.058,
+      11.034
+    ],
+    "polygon": [
+      [
+        5.167,
+        9.935
+      ],
+      [
+        5.167,
+        10.846
+      ],
+      [
+        5.478,
+        10.922
+      ],
+      [
+        5.769,
+        11.128
+      ],
+      [
+        5.968,
+        11.424
+      ],
+      [
+        6.045,
+        11.774
+      ],
+      [
+        5.997,
+        11.785
+      ],
+      [
+        5.997,
+        11.835
+      ],
+      [
+        5.417,
+        11.835
+      ],
+      [
+        5.438,
+        11.969
+      ],
+      [
+        9.203,
+        11.969
+      ],
+      [
+        9.203,
+        11.914
+      ],
+      [
+        9.154,
+        11.902
+      ],
+      [
+        9.243,
+        11.541
+      ],
+      [
+        9.458,
+        11.242
+      ],
+      [
+        9.768,
+        11.041
+      ],
+      [
+        10.011,
+        10.993
+      ],
+      [
+        9.212,
+        10.993
+      ],
+      [
+        9.212,
+        9.493
+      ],
+      [
+        5.438,
+        9.493
+      ],
+      [
+        5.438,
+        9.885
+      ],
+      [
+        5.388,
+        9.935
+      ],
+      [
+        5.167,
+        9.935
+      ]
+    ],
+    "occupant": {
+      "responsable": "Anne-Laure Ligozat",
+      "role": "Enseignante-Chercheuse (Traitement Automatique Langues / NLP)",
+      "email": "anne-laure.ligozat@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Anne-Laure Ligozat",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1112",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-112.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "113",
+    "feature_index": 11,
+    "numero": "113",
+    "nom": "Bureau 113 – Sergio Pulido Nino",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 12.7,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      7.611,
+      13.598
+    ],
+    "polygon": [
+      [
+        5.167,
+        12.785
+      ],
+      [
+        5.167,
+        13.696
+      ],
+      [
+        5.478,
+        13.772
+      ],
+      [
+        5.769,
+        13.978
+      ],
+      [
+        5.968,
+        14.274
+      ],
+      [
+        6.045,
+        14.624
+      ],
+      [
+        5.997,
+        14.64
+      ],
+      [
+        8.307,
+        14.64
+      ],
+      [
+        8.307,
+        14.46
+      ],
+      [
+        8.357,
+        14.46
+      ],
+      [
+        8.357,
+        14.385
+      ],
+      [
+        8.707,
+        14.385
+      ],
+      [
+        8.707,
+        14.46
+      ],
+      [
+        8.757,
+        14.46
+      ],
+      [
+        8.757,
+        14.64
+      ],
+      [
+        10.092,
+        14.64
+      ],
+      [
+        10.092,
+        13.16
+      ],
+      [
+        9.768,
+        13.097
+      ],
+      [
+        9.458,
+        12.896
+      ],
+      [
+        9.243,
+        12.596
+      ],
+      [
+        9.154,
+        12.235
+      ],
+      [
+        9.203,
+        12.224
+      ],
+      [
+        9.203,
+        12.169
+      ],
+      [
+        5.438,
+        12.169
+      ],
+      [
+        5.438,
+        12.735
+      ],
+      [
+        5.388,
+        12.785
+      ],
+      [
+        5.167,
+        12.785
+      ]
+    ],
+    "occupant": {
+      "responsable": "Sergio Pulido Nino",
+      "role": "Enseignant-Chercheur (Mathématiques Appliquées)",
+      "email": "sergio.pulido@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Sergio Pulido Nino",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1113",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-113.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "114",
+    "feature_index": 10,
+    "numero": "114",
+    "nom": "Bureau 114 – Bureau Pédagogique 114",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 18.0,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      13.895,
+      11.156
+    ],
+    "polygon": [
+      [
+        11.952,
+        14.66
+      ],
+      [
+        15.405,
+        14.66
+      ],
+      [
+        15.405,
+        10.293
+      ],
+      [
+        14.675,
+        10.293
+      ],
+      [
+        14.675,
+        10.382
+      ],
+      [
+        14.58,
+        10.382
+      ],
+      [
+        14.568,
+        10.431
+      ],
+      [
+        14.207,
+        10.342
+      ],
+      [
+        13.908,
+        10.127
+      ],
+      [
+        13.707,
+        9.818
+      ],
+      [
+        13.644,
+        9.493
+      ],
+      [
+        11.952,
+        9.493
+      ],
+      [
+        11.952,
+        14.66
+      ]
+    ],
+    "occupant": {
+      "responsable": "Bureau Pédagogique 114",
+      "role": "Personnel enseignant / Réserve matériel",
+      "email": "contact114@ensiie.fr",
+      "dispo": "Disponible"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Bureau Pédagogique 114",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1114",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-114.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "115",
+    "feature_index": 9,
+    "numero": "115",
+    "nom": "Salle des professeurs 115",
+    "libelle": "Salle des professeurs",
+    "categorie": "salle_profs",
+    "categorie_nom": "Salle des Professeurs",
+    "surface": 33.5,
+    "capacite": "Variable",
+    "couleur": "#f59e0b",
+    "center": [
+      17.958,
+      11.311
+    ],
+    "polygon": [
+      [
+        15.625,
+        10.382
+      ],
+      [
+        15.605,
+        14.41
+      ],
+      [
+        15.867,
+        14.41
+      ],
+      [
+        15.867,
+        14.46
+      ],
+      [
+        15.917,
+        14.46
+      ],
+      [
+        15.917,
+        14.64
+      ],
+      [
+        21.899,
+        14.66
+      ],
+      [
+        21.899,
+        10.493
+      ],
+      [
+        21.349,
+        10.493
+      ],
+      [
+        21.349,
+        10.443
+      ],
+      [
+        21.299,
+        10.443
+      ],
+      [
+        21.299,
+        9.493
+      ],
+      [
+        18.865,
+        9.493
+      ],
+      [
+        18.865,
+        9.163
+      ],
+      [
+        18.865,
+        9.493
+      ],
+      [
+        16.566,
+        9.493
+      ],
+      [
+        16.503,
+        9.818
+      ],
+      [
+        16.302,
+        10.127
+      ],
+      [
+        16.002,
+        10.342
+      ],
+      [
+        15.642,
+        10.431
+      ],
+      [
+        15.625,
+        10.382
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/115.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1115",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-115.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "116",
+    "numero": "116",
+    "nom": "Reprographie 116",
+    "libelle": "Reprographie",
+    "categorie": "technique",
+    "categorie_nom": "Local Reprographie",
+    "surface": 10.0,
+    "capacite": "Personnel",
+    "couleur": "#64748b",
+    "center": [
+      22.75,
+      12.4
+    ],
+    "polygon": [
+      [
+        21.5,
+        10.38
+      ],
+      [
+        24.0,
+        10.38
+      ],
+      [
+        24.0,
+        14.41
+      ],
+      [
+        21.5,
+        14.41
+      ],
+      [
+        21.5,
+        10.38
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Imprimantes & Copieurs",
+        "promo": "Personnel",
+        "statut": "Accès libre",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1116",
+      "notes": "Local technique reprographie.",
+      "statut_materiel": "Copieurs connectés"
+    }
+  },
+  {
+    "id": "117",
+    "feature_index": 8,
+    "numero": "117",
+    "nom": "Bureau 117 – Bureau & Salle de Réunion 117",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 20.1,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      24.977,
+      10.742
+    ],
+    "polygon": [
+      [
+        23.999,
+        14.66
+      ],
+      [
+        27.717,
+        14.66
+      ],
+      [
+        27.717,
+        9.493
+      ],
+      [
+        25.379,
+        9.494
+      ],
+      [
+        25.379,
+        9.444
+      ],
+      [
+        25.379,
+        9.494
+      ],
+      [
+        25.109,
+        9.494
+      ],
+      [
+        25.046,
+        9.818
+      ],
+      [
+        24.845,
+        10.127
+      ],
+      [
+        24.545,
+        10.343
+      ],
+      [
+        24.184,
+        10.431
+      ],
+      [
+        24.173,
+        10.383
+      ],
+      [
+        24.078,
+        10.383
+      ],
+      [
+        24.078,
+        9.494
+      ],
+      [
+        23.999,
+        9.494
+      ],
+      [
+        23.999,
+        14.66
+      ]
+    ],
+    "occupant": {
+      "responsable": "Bureau & Salle de Réunion 117",
+      "role": "Espace de réunion pédagogique & enseignants",
+      "email": "reunions@ensiie.fr",
+      "dispo": "Réservation sur Aurion"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Bureau & Salle de Réunion 117",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1117",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-117.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "118",
+    "feature_index": 13,
+    "numero": "118",
+    "nom": "Bureau 118 – Obaïda Alrazouk",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 22.9,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      7.163,
+      22.417
+    ],
+    "polygon": [
+      [
+        5.167,
+        21.534
+      ],
+      [
+        5.164,
+        24.902
+      ],
+      [
+        9.203,
+        24.902
+      ],
+      [
+        9.203,
+        24.837
+      ],
+      [
+        9.154,
+        24.825
+      ],
+      [
+        9.243,
+        24.464
+      ],
+      [
+        9.458,
+        24.164
+      ],
+      [
+        9.767,
+        23.964
+      ],
+      [
+        10.092,
+        23.9
+      ],
+      [
+        10.092,
+        20.41
+      ],
+      [
+        5.302,
+        20.41
+      ],
+      [
+        5.301,
+        20.574
+      ],
+      [
+        5.741,
+        20.577
+      ],
+      [
+        5.86,
+        20.697
+      ],
+      [
+        5.859,
+        20.858
+      ],
+      [
+        5.739,
+        20.977
+      ],
+      [
+        5.298,
+        20.975
+      ],
+      [
+        5.296,
+        21.415
+      ],
+      [
+        5.167,
+        21.534
+      ]
+    ],
+    "occupant": {
+      "responsable": "Obaïda Alrazouk, Aurélien Enfroy, Sofiane Ziani",
+      "role": "Enseignants-Chercheurs (Informatique & Systèmes)",
+      "email": "contact118@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Obaïda Alrazouk, Aurélien Enfroy, Sofiane Ziani",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1118",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-118.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "119",
+    "feature_index": 14,
+    "numero": "119",
+    "nom": "Bureau 119 – Juhyun Park",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 16.9,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      9.189,
+      26.784
+    ],
+    "polygon": [
+      [
+        9.154,
+        28.305
+      ],
+      [
+        9.243,
+        27.944
+      ],
+      [
+        9.458,
+        27.645
+      ],
+      [
+        9.768,
+        27.444
+      ],
+      [
+        10.092,
+        27.381
+      ],
+      [
+        10.092,
+        26.599
+      ],
+      [
+        9.988,
+        26.491
+      ],
+      [
+        9.996,
+        26.05
+      ],
+      [
+        9.556,
+        26.042
+      ],
+      [
+        9.439,
+        25.92
+      ],
+      [
+        9.442,
+        25.759
+      ],
+      [
+        9.564,
+        25.642
+      ],
+      [
+        10.004,
+        25.65
+      ],
+      [
+        10.013,
+        25.21
+      ],
+      [
+        10.092,
+        25.102
+      ],
+      [
+        5.163,
+        25.102
+      ],
+      [
+        5.16,
+        28.382
+      ],
+      [
+        9.203,
+        28.382
+      ],
+      [
+        9.203,
+        28.317
+      ],
+      [
+        9.154,
+        28.305
+      ]
+    ],
+    "occupant": {
+      "responsable": "Juhyun Park, Thi Phuong Thuy Vo",
+      "role": "Enseignants-Chercheurs (Mathématiques & Stats)",
+      "email": "contact119@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Juhyun Park, Thi Phuong Thuy Vo",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1119",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-119.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "120",
+    "feature_index": 15,
+    "numero": "120",
+    "nom": "Bureau 120 – Christine Arioli",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 11.9,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      7.685,
+      29.64
+    ],
+    "polygon": [
+      [
+        5.158,
+        30.178
+      ],
+      [
+        5.297,
+        30.298
+      ],
+      [
+        5.295,
+        30.739
+      ],
+      [
+        5.736,
+        30.741
+      ],
+      [
+        5.846,
+        30.853
+      ],
+      [
+        10.092,
+        30.852
+      ],
+      [
+        10.092,
+        29.563
+      ],
+      [
+        9.768,
+        29.499
+      ],
+      [
+        9.458,
+        29.299
+      ],
+      [
+        9.243,
+        28.999
+      ],
+      [
+        9.154,
+        28.638
+      ],
+      [
+        9.203,
+        28.622
+      ],
+      [
+        9.153,
+        28.622
+      ],
+      [
+        9.153,
+        28.582
+      ],
+      [
+        5.16,
+        28.582
+      ],
+      [
+        5.158,
+        30.178
+      ]
+    ],
+    "occupant": {
+      "responsable": "Christine Arioli",
+      "role": "Enseignante & Coordination Langues / SHS",
+      "email": "christine.arioli@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Christine Arioli",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1120",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-120.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "121",
+    "feature_index": 22,
+    "numero": "121",
+    "nom": "Salle de TD 121",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 48.4,
+    "capacite": "30 places",
+    "couleur": "#3b82f6",
+    "center": [
+      8.164,
+      36.57
+    ],
+    "polygon": [
+      [
+        5.149,
+        40.373
+      ],
+      [
+        5.292,
+        40.495
+      ],
+      [
+        5.283,
+        40.936
+      ],
+      [
+        5.723,
+        40.945
+      ],
+      [
+        5.847,
+        41.096
+      ],
+      [
+        5.888,
+        41.114
+      ],
+      [
+        5.911,
+        41.09
+      ],
+      [
+        5.957,
+        41.137
+      ],
+      [
+        6.022,
+        41.138
+      ],
+      [
+        6.021,
+        41.188
+      ],
+      [
+        6.056,
+        41.152
+      ],
+      [
+        6.717,
+        41.805
+      ],
+      [
+        10.218,
+        38.311
+      ],
+      [
+        10.179,
+        38.272
+      ],
+      [
+        10.137,
+        38.298
+      ],
+      [
+        9.945,
+        37.98
+      ],
+      [
+        9.885,
+        37.616
+      ],
+      [
+        9.963,
+        37.255
+      ],
+      [
+        10.148,
+        36.98
+      ],
+      [
+        10.107,
+        36.941
+      ],
+      [
+        10.142,
+        36.905
+      ],
+      [
+        10.092,
+        36.905
+      ],
+      [
+        10.092,
+        36.775
+      ],
+      [
+        9.982,
+        36.661
+      ],
+      [
+        9.99,
+        36.22
+      ],
+      [
+        9.55,
+        36.211
+      ],
+      [
+        9.433,
+        36.09
+      ],
+      [
+        9.436,
+        35.928
+      ],
+      [
+        9.558,
+        35.811
+      ],
+      [
+        9.998,
+        35.82
+      ],
+      [
+        10.007,
+        35.38
+      ],
+      [
+        10.092,
+        35.298
+      ],
+      [
+        10.092,
+        32.043
+      ],
+      [
+        9.768,
+        31.98
+      ],
+      [
+        9.458,
+        31.779
+      ],
+      [
+        9.243,
+        31.48
+      ],
+      [
+        9.154,
+        31.119
+      ],
+      [
+        9.203,
+        31.107
+      ],
+      [
+        9.203,
+        31.053
+      ],
+      [
+        5.823,
+        31.053
+      ],
+      [
+        5.733,
+        31.141
+      ],
+      [
+        5.293,
+        31.139
+      ],
+      [
+        5.29,
+        31.579
+      ],
+      [
+        5.157,
+        31.698
+      ],
+      [
+        5.149,
+        40.373
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "08:30 - 10:30",
+        "titre": "TD Algorithmique & Structures de Données",
+        "promo": "1A Groupe 1",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "10:30 - 13:00",
+        "titre": "Travaux dirigés Hackathon",
+        "promo": "Équipes 1A",
+        "statut": "En cours",
+        "actuel": true
+      },
+      {
+        "heure": "14:30 - 17:30",
+        "titre": "TD Systèmes Concurrents",
+        "promo": "2A Groupe 2",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1121",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-121.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "122",
+    "feature_index": 23,
+    "numero": "122",
+    "nom": "Salle de TD 122",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 57.9,
+    "capacite": "30 places",
+    "couleur": "#3b82f6",
+    "center": [
+      11.691,
+      43.947
+    ],
+    "polygon": [
+      [
+        10.152,
+        45.268
+      ],
+      [
+        10.202,
+        45.268
+      ],
+      [
+        10.202,
+        45.443
+      ],
+      [
+        10.281,
+        45.453
+      ],
+      [
+        10.398,
+        45.575
+      ],
+      [
+        10.387,
+        46.016
+      ],
+      [
+        10.828,
+        46.026
+      ],
+      [
+        10.944,
+        46.148
+      ],
+      [
+        10.943,
+        46.197
+      ],
+      [
+        11.217,
+        46.218
+      ],
+      [
+        11.215,
+        46.298
+      ],
+      [
+        11.266,
+        46.247
+      ],
+      [
+        12.938,
+        47.937
+      ],
+      [
+        13.255,
+        47.745
+      ],
+      [
+        13.619,
+        47.685
+      ],
+      [
+        13.98,
+        47.762
+      ],
+      [
+        14.255,
+        47.947
+      ],
+      [
+        17.679,
+        44.529
+      ],
+      [
+        15.144,
+        41.989
+      ],
+      [
+        15.18,
+        41.954
+      ],
+      [
+        15.144,
+        41.989
+      ],
+      [
+        11.689,
+        38.527
+      ],
+      [
+        11.415,
+        38.71
+      ],
+      [
+        11.054,
+        38.787
+      ],
+      [
+        10.69,
+        38.727
+      ],
+      [
+        10.373,
+        38.534
+      ],
+      [
+        10.399,
+        38.491
+      ],
+      [
+        10.359,
+        38.452
+      ],
+      [
+        6.859,
+        41.946
+      ],
+      [
+        10.188,
+        45.233
+      ],
+      [
+        10.152,
+        45.268
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "09:00 - 12:00",
+        "titre": "TD Mathématiques Appliquées",
+        "promo": "1A Groupe 3",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "14:00 - 17:30",
+        "titre": "TD Probabilités & Statistiques",
+        "promo": "2A Groupe 1",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/122.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1122",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-122.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "123",
+    "feature_index": 28,
+    "numero": "123",
+    "nom": "Amphithéâtre 123",
+    "libelle": "Amphithéâtre",
+    "categorie": "amphi",
+    "categorie_nom": "Amphithéâtre",
+    "surface": 67.7,
+    "capacite": "40 places",
+    "couleur": "#2563eb",
+    "center": [
+      20.356,
+      51.082
+    ],
+    "polygon": [
+      [
+        15.478,
+        51.794
+      ],
+      [
+        15.485,
+        51.932
+      ],
+      [
+        15.423,
+        52.0
+      ],
+      [
+        19.578,
+        56.216
+      ],
+      [
+        19.675,
+        56.213
+      ],
+      [
+        19.771,
+        54.954
+      ],
+      [
+        19.821,
+        54.957
+      ],
+      [
+        19.786,
+        54.922
+      ],
+      [
+        20.118,
+        54.594
+      ],
+      [
+        20.437,
+        54.917
+      ],
+      [
+        20.402,
+        54.952
+      ],
+      [
+        20.451,
+        54.956
+      ],
+      [
+        20.395,
+        55.695
+      ],
+      [
+        20.5,
+        55.793
+      ],
+      [
+        20.505,
+        55.944
+      ],
+      [
+        20.815,
+        56.224
+      ],
+      [
+        20.955,
+        56.219
+      ],
+      [
+        21.078,
+        56.334
+      ],
+      [
+        21.083,
+        56.466
+      ],
+      [
+        25.435,
+        52.124
+      ],
+      [
+        25.436,
+        52.075
+      ],
+      [
+        25.37,
+        52.075
+      ],
+      [
+        25.37,
+        52.118
+      ],
+      [
+        25.208,
+        51.955
+      ],
+      [
+        25.21,
+        51.514
+      ],
+      [
+        24.769,
+        51.513
+      ],
+      [
+        24.668,
+        51.411
+      ],
+      [
+        23.945,
+        51.451
+      ],
+      [
+        23.942,
+        51.401
+      ],
+      [
+        23.907,
+        51.436
+      ],
+      [
+        23.615,
+        51.141
+      ],
+      [
+        23.965,
+        50.796
+      ],
+      [
+        24.0,
+        50.831
+      ],
+      [
+        23.997,
+        50.781
+      ],
+      [
+        25.213,
+        50.714
+      ],
+      [
+        25.262,
+        50.625
+      ],
+      [
+        21.017,
+        46.368
+      ],
+      [
+        20.977,
+        46.409
+      ],
+      [
+        20.615,
+        46.417
+      ],
+      [
+        20.575,
+        46.83
+      ],
+      [
+        20.43,
+        46.982
+      ],
+      [
+        20.269,
+        46.985
+      ],
+      [
+        20.147,
+        46.869
+      ],
+      [
+        20.137,
+        46.428
+      ],
+      [
+        19.993,
+        46.431
+      ],
+      [
+        19.993,
+        46.652
+      ],
+      [
+        19.899,
+        46.652
+      ],
+      [
+        19.887,
+        46.701
+      ],
+      [
+        19.526,
+        46.612
+      ],
+      [
+        19.226,
+        46.397
+      ],
+      [
+        19.026,
+        46.087
+      ],
+      [
+        18.967,
+        45.79
+      ],
+      [
+        15.577,
+        49.174
+      ],
+      [
+        15.65,
+        49.247
+      ],
+      [
+        15.615,
+        49.283
+      ],
+      [
+        16.217,
+        48.683
+      ],
+      [
+        17.206,
+        49.674
+      ],
+      [
+        15.793,
+        51.075
+      ],
+      [
+        15.883,
+        51.07
+      ],
+      [
+        16.009,
+        51.183
+      ],
+      [
+        16.017,
+        51.345
+      ],
+      [
+        15.865,
+        51.512
+      ],
+      [
+        15.731,
+        51.525
+      ],
+      [
+        15.478,
+        51.794
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "09:00 - 11:00",
+        "titre": "TD Physique & Electronique",
+        "promo": "1A Groupe 2",
+        "statut": "En cours",
+        "actuel": true
+      },
+      {
+        "heure": "14:00 - 16:00",
+        "titre": "TD Automatique",
+        "promo": "2A Groupe 3",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/123.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1123",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-123.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "124",
+    "feature_index": 26,
+    "numero": "124",
+    "nom": "Dépôt pédagogique 124",
+    "libelle": "Dépôt pédagogique",
+    "categorie": "depot",
+    "categorie_nom": "Dépôt / Réserve",
+    "surface": 8.5,
+    "capacite": "Variable",
+    "couleur": "#94a3b8",
+    "center": [
+      24.521,
+      47.172
+    ],
+    "polygon": [
+      [
+        24.345,
+        46.324
+      ],
+      [
+        21.372,
+        46.324
+      ],
+      [
+        25.336,
+        50.285
+      ],
+      [
+        25.336,
+        47.213
+      ],
+      [
+        25.281,
+        47.213
+      ],
+      [
+        25.269,
+        47.262
+      ],
+      [
+        24.908,
+        47.173
+      ],
+      [
+        24.609,
+        46.958
+      ],
+      [
+        24.408,
+        46.649
+      ],
+      [
+        24.345,
+        46.324
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1124",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-124.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "125",
+    "feature_index": 24,
+    "numero": "125",
+    "nom": "Dépôt pédagogique 125",
+    "libelle": "Dépôt pédagogique",
+    "categorie": "depot",
+    "categorie_nom": "Dépôt / Réserve",
+    "surface": 4.9,
+    "capacite": "Variable",
+    "couleur": "#94a3b8",
+    "center": [
+      19.256,
+      41.859
+    ],
+    "polygon": [
+      [
+        17.857,
+        40.853
+      ],
+      [
+        17.892,
+        40.889
+      ],
+      [
+        17.573,
+        41.205
+      ],
+      [
+        19.289,
+        42.921
+      ],
+      [
+        19.563,
+        42.648
+      ],
+      [
+        19.796,
+        42.881
+      ],
+      [
+        19.878,
+        42.799
+      ],
+      [
+        20.01,
+        42.888
+      ],
+      [
+        20.333,
+        42.957
+      ],
+      [
+        20.66,
+        42.903
+      ],
+      [
+        20.911,
+        42.752
+      ],
+      [
+        20.291,
+        42.132
+      ],
+      [
+        20.32,
+        42.103
+      ],
+      [
+        20.235,
+        41.976
+      ],
+      [
+        20.271,
+        41.94
+      ],
+      [
+        17.937,
+        39.578
+      ],
+      [
+        17.291,
+        40.217
+      ],
+      [
+        17.892,
+        40.818
+      ],
+      [
+        17.857,
+        40.853
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1125",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-125.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "126",
+    "feature_index": 20,
+    "numero": "126",
+    "nom": "Salle de TD 126",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 44.1,
+    "capacite": "30 places",
+    "couleur": "#3b82f6",
+    "center": [
+      15.851,
+      34.826
+    ],
+    "polygon": [
+      [
+        12.585,
+        31.798
+      ],
+      [
+        12.276,
+        31.999
+      ],
+      [
+        11.952,
+        32.062
+      ],
+      [
+        11.952,
+        35.613
+      ],
+      [
+        16.078,
+        39.71
+      ],
+      [
+        16.352,
+        39.525
+      ],
+      [
+        16.713,
+        39.449
+      ],
+      [
+        17.077,
+        39.509
+      ],
+      [
+        17.395,
+        39.702
+      ],
+      [
+        17.369,
+        39.744
+      ],
+      [
+        17.426,
+        39.802
+      ],
+      [
+        20.247,
+        37.015
+      ],
+      [
+        20.247,
+        36.771
+      ],
+      [
+        20.159,
+        36.683
+      ],
+      [
+        20.159,
+        36.242
+      ],
+      [
+        19.443,
+        36.228
+      ],
+      [
+        19.443,
+        36.178
+      ],
+      [
+        19.407,
+        36.213
+      ],
+      [
+        15.071,
+        31.919
+      ],
+      [
+        15.107,
+        31.883
+      ],
+      [
+        15.057,
+        31.882
+      ],
+      [
+        15.056,
+        31.16
+      ],
+      [
+        14.616,
+        31.154
+      ],
+      [
+        14.536,
+        31.073
+      ],
+      [
+        12.841,
+        31.072
+      ],
+      [
+        12.841,
+        31.126
+      ],
+      [
+        12.889,
+        31.138
+      ],
+      [
+        12.801,
+        31.498
+      ],
+      [
+        12.585,
+        31.798
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "08:30 - 12:00",
+        "titre": "TD Génie Logiciel & Méthodes Agiles",
+        "promo": "2A Groupe 3",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "14:00 - 17:00",
+        "titre": "Salle libre – Travail en groupe",
+        "promo": "Tous",
+        "statut": "Libre",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": true,
+    "image": "images/126.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1126",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-126.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "127",
+    "feature_index": 16,
+    "numero": "127",
+    "nom": "Salle de TP 127",
+    "libelle": "Salle de TP",
+    "categorie": "tp",
+    "categorie_nom": "Salle de TP Informatique",
+    "surface": 56.1,
+    "capacite": "30 places",
+    "couleur": "#0284c7",
+    "center": [
+      15.636,
+      23.764
+    ],
+    "polygon": [
+      [
+        12.841,
+        21.476
+      ],
+      [
+        12.841,
+        21.571
+      ],
+      [
+        12.889,
+        21.583
+      ],
+      [
+        12.801,
+        21.943
+      ],
+      [
+        12.585,
+        22.243
+      ],
+      [
+        12.276,
+        22.444
+      ],
+      [
+        11.952,
+        22.507
+      ],
+      [
+        11.952,
+        26.887
+      ],
+      [
+        14.496,
+        29.413
+      ],
+      [
+        14.263,
+        29.647
+      ],
+      [
+        14.346,
+        29.729
+      ],
+      [
+        14.257,
+        29.861
+      ],
+      [
+        14.189,
+        30.185
+      ],
+      [
+        14.244,
+        30.511
+      ],
+      [
+        14.397,
+        30.761
+      ],
+      [
+        15.014,
+        30.14
+      ],
+      [
+        15.043,
+        30.168
+      ],
+      [
+        15.149,
+        30.082
+      ],
+      [
+        15.113,
+        30.047
+      ],
+      [
+        19.434,
+        25.724
+      ],
+      [
+        19.469,
+        25.759
+      ],
+      [
+        19.493,
+        25.469
+      ],
+      [
+        19.643,
+        25.439
+      ],
+      [
+        19.643,
+        25.399
+      ],
+      [
+        20.172,
+        25.399
+      ],
+      [
+        20.176,
+        25.244
+      ],
+      [
+        20.299,
+        25.128
+      ],
+      [
+        20.454,
+        25.132
+      ],
+      [
+        20.257,
+        24.846
+      ],
+      [
+        19.979,
+        24.666
+      ],
+      [
+        19.493,
+        24.569
+      ],
+      [
+        19.493,
+        20.41
+      ],
+      [
+        15.797,
+        20.41
+      ],
+      [
+        15.797,
+        20.591
+      ],
+      [
+        15.943,
+        20.593
+      ],
+      [
+        16.061,
+        20.713
+      ],
+      [
+        16.06,
+        20.874
+      ],
+      [
+        15.939,
+        20.992
+      ],
+      [
+        15.797,
+        20.991
+      ],
+      [
+        15.797,
+        21.35
+      ],
+      [
+        15.747,
+        21.35
+      ],
+      [
+        15.747,
+        21.4
+      ],
+      [
+        15.495,
+        21.4
+      ],
+      [
+        15.374,
+        21.547
+      ],
+      [
+        15.213,
+        21.546
+      ],
+      [
+        15.095,
+        21.4
+      ],
+      [
+        14.847,
+        21.4
+      ],
+      [
+        14.847,
+        21.35
+      ],
+      [
+        14.797,
+        21.35
+      ],
+      [
+        14.797,
+        20.982
+      ],
+      [
+        14.658,
+        20.981
+      ],
+      [
+        14.54,
+        20.86
+      ],
+      [
+        14.541,
+        20.699
+      ],
+      [
+        14.662,
+        20.581
+      ],
+      [
+        14.797,
+        20.582
+      ],
+      [
+        14.797,
+        20.41
+      ],
+      [
+        11.952,
+        20.41
+      ],
+      [
+        11.952,
+        21.476
+      ],
+      [
+        12.841,
+        21.476
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "08:30 - 12:00",
+        "titre": "TP Programmation Système Linux / C",
+        "promo": "1A Groupe 3",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "12:00 - 14:00",
+        "titre": "Salle Libre – Révisions",
+        "promo": "Libre",
+        "statut": "Libre",
+        "actuel": true
+      },
+      {
+        "heure": "14:00 - 18:00",
+        "titre": "TP Réseaux TCP/IP & Wireshark",
+        "promo": "2A Groupe 1",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": "images/127.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1127",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-127.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "128",
+    "feature_index": 19,
+    "numero": "128",
+    "nom": "Dépôt pédagogique 128",
+    "libelle": "Dépôt pédagogique",
+    "categorie": "depot",
+    "categorie_nom": "Dépôt / Réserve",
+    "surface": 10.1,
+    "capacite": "Variable",
+    "couleur": "#94a3b8",
+    "center": [
+      13.789,
+      30.126
+    ],
+    "polygon": [
+      [
+        14.149,
+        30.547
+      ],
+      [
+        14.088,
+        30.183
+      ],
+      [
+        14.163,
+        29.822
+      ],
+      [
+        14.347,
+        29.547
+      ],
+      [
+        11.952,
+        27.169
+      ],
+      [
+        11.952,
+        30.871
+      ],
+      [
+        14.357,
+        30.872
+      ],
+      [
+        14.388,
+        30.841
+      ],
+      [
+        14.342,
+        30.864
+      ],
+      [
+        14.149,
+        30.547
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1128",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-128.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "129",
+    "numero": "129",
+    "nom": "Local ménage 129",
+    "libelle": "Local ménage",
+    "categorie": "technique",
+    "categorie_nom": "Local Ménage & Entretien",
+    "surface": 8.0,
+    "capacite": "Personnel entretien",
+    "couleur": "#94a3b8",
+    "center": [
+      30.5,
+      25.0
+    ],
+    "polygon": [
+      [
+        29.0,
+        23.5
+      ],
+      [
+        32.0,
+        23.5
+      ],
+      [
+        32.0,
+        26.5
+      ],
+      [
+        29.0,
+        26.5
+      ],
+      [
+        29.0,
+        23.5
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Journée",
+        "titre": "Local matériel",
+        "promo": "Agents",
+        "statut": "Service",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Clé service entretien",
+      "notes": "Local produits entretien.",
+      "statut_materiel": "Conforme"
+    }
+  },
+  {
+    "id": "130",
+    "feature_index": 17,
+    "numero": "130",
+    "nom": "Salle de TP 130",
+    "libelle": "Salle de TP",
+    "categorie": "tp",
+    "categorie_nom": "Salle de TP Informatique",
+    "surface": 89.7,
+    "capacite": "41 places",
+    "couleur": "#0284c7",
+    "center": [
+      25.778,
+      25.637
+    ],
+    "polygon": [
+      [
+        20.582,
+        25.445
+      ],
+      [
+        20.564,
+        25.696
+      ],
+      [
+        21.004,
+        25.708
+      ],
+      [
+        21.079,
+        25.787
+      ],
+      [
+        21.249,
+        25.785
+      ],
+      [
+        25.508,
+        30.073
+      ],
+      [
+        25.508,
+        30.2
+      ],
+      [
+        25.643,
+        30.32
+      ],
+      [
+        25.639,
+        30.761
+      ],
+      [
+        26.082,
+        30.766
+      ],
+      [
+        26.082,
+        30.71
+      ],
+      [
+        26.177,
+        30.71
+      ],
+      [
+        26.188,
+        30.661
+      ],
+      [
+        26.549,
+        30.75
+      ],
+      [
+        26.849,
+        30.965
+      ],
+      [
+        27.05,
+        31.275
+      ],
+      [
+        27.113,
+        31.599
+      ],
+      [
+        31.318,
+        31.599
+      ],
+      [
+        31.318,
+        27.228
+      ],
+      [
+        30.994,
+        27.164
+      ],
+      [
+        30.684,
+        26.964
+      ],
+      [
+        30.462,
+        26.636
+      ],
+      [
+        30.325,
+        26.512
+      ],
+      [
+        30.337,
+        26.072
+      ],
+      [
+        29.897,
+        26.059
+      ],
+      [
+        29.781,
+        25.937
+      ],
+      [
+        29.785,
+        25.776
+      ],
+      [
+        29.908,
+        25.66
+      ],
+      [
+        30.349,
+        25.672
+      ],
+      [
+        30.361,
+        25.232
+      ],
+      [
+        30.409,
+        25.187
+      ],
+      [
+        26.125,
+        20.903
+      ],
+      [
+        26.072,
+        20.96
+      ],
+      [
+        25.631,
+        20.976
+      ],
+      [
+        25.647,
+        21.416
+      ],
+      [
+        25.532,
+        21.539
+      ],
+      [
+        25.37,
+        21.545
+      ],
+      [
+        25.247,
+        21.43
+      ],
+      [
+        25.232,
+        20.99
+      ],
+      [
+        24.791,
+        21.005
+      ],
+      [
+        24.668,
+        20.89
+      ],
+      [
+        24.662,
+        20.729
+      ],
+      [
+        24.777,
+        20.605
+      ],
+      [
+        25.218,
+        20.59
+      ],
+      [
+        25.211,
+        20.41
+      ],
+      [
+        19.693,
+        20.41
+      ],
+      [
+        19.693,
+        24.508
+      ],
+      [
+        20.017,
+        24.572
+      ],
+      [
+        20.327,
+        24.772
+      ],
+      [
+        20.542,
+        25.072
+      ],
+      [
+        20.631,
+        25.433
+      ],
+      [
+        20.582,
+        25.445
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "10:00 - 13:00",
+        "titre": "Hackathon : Salle de dev",
+        "promo": "Équipes Projet 2",
+        "statut": "En cours",
+        "actuel": true
+      },
+      {
+        "heure": "14:00 - 17:30",
+        "titre": "Hackathon : Session après-midi",
+        "promo": "Équipes Projet 2",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/130.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1130",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-130.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "131",
+    "feature_index": 21,
+    "numero": "131",
+    "nom": "Salle de TP 131",
+    "libelle": "Salle de TP",
+    "categorie": "tp",
+    "categorie_nom": "Salle de TP Informatique",
+    "surface": 87.3,
+    "capacite": "42 places",
+    "couleur": "#0284c7",
+    "center": [
+      25.689,
+      37.199
+    ],
+    "polygon": [
+      [
+        21.261,
+        36.166
+      ],
+      [
+        21.261,
+        36.216
+      ],
+      [
+        20.559,
+        36.242
+      ],
+      [
+        20.559,
+        36.683
+      ],
+      [
+        20.447,
+        36.796
+      ],
+      [
+        20.447,
+        36.916
+      ],
+      [
+        24.683,
+        41.208
+      ],
+      [
+        24.686,
+        41.058
+      ],
+      [
+        24.807,
+        40.941
+      ],
+      [
+        25.248,
+        40.948
+      ],
+      [
+        25.255,
+        40.507
+      ],
+      [
+        25.376,
+        40.39
+      ],
+      [
+        25.537,
+        40.392
+      ],
+      [
+        25.655,
+        40.514
+      ],
+      [
+        25.647,
+        40.954
+      ],
+      [
+        26.088,
+        40.961
+      ],
+      [
+        26.206,
+        41.083
+      ],
+      [
+        26.203,
+        41.244
+      ],
+      [
+        26.082,
+        41.361
+      ],
+      [
+        25.641,
+        41.354
+      ],
+      [
+        25.634,
+        41.795
+      ],
+      [
+        25.513,
+        41.912
+      ],
+      [
+        25.378,
+        41.91
+      ],
+      [
+        25.479,
+        42.012
+      ],
+      [
+        25.444,
+        42.048
+      ],
+      [
+        25.494,
+        42.048
+      ],
+      [
+        25.494,
+        42.223
+      ],
+      [
+        30.429,
+        42.223
+      ],
+      [
+        30.429,
+        42.167
+      ],
+      [
+        30.381,
+        42.155
+      ],
+      [
+        30.469,
+        41.795
+      ],
+      [
+        30.684,
+        41.495
+      ],
+      [
+        30.994,
+        41.294
+      ],
+      [
+        31.318,
+        41.231
+      ],
+      [
+        31.318,
+        31.799
+      ],
+      [
+        27.332,
+        31.799
+      ],
+      [
+        27.332,
+        31.699
+      ],
+      [
+        27.102,
+        31.699
+      ],
+      [
+        27.102,
+        31.469
+      ],
+      [
+        26.986,
+        31.469
+      ],
+      [
+        26.955,
+        31.313
+      ],
+      [
+        26.775,
+        31.035
+      ],
+      [
+        26.507,
+        30.842
+      ],
+      [
+        26.222,
+        30.773
+      ],
+      [
+        26.222,
+        31.649
+      ],
+      [
+        26.182,
+        31.649
+      ],
+      [
+        26.182,
+        31.749
+      ],
+      [
+        26.102,
+        31.749
+      ],
+      [
+        26.102,
+        31.799
+      ],
+      [
+        25.595,
+        31.799
+      ],
+      [
+        25.595,
+        31.847
+      ],
+      [
+        25.545,
+        31.846
+      ],
+      [
+        25.581,
+        31.882
+      ],
+      [
+        22.101,
+        35.39
+      ],
+      [
+        22.252,
+        35.728
+      ],
+      [
+        21.523,
+        35.973
+      ],
+      [
+        21.297,
+        36.201
+      ],
+      [
+        21.261,
+        36.166
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "09:00 - 12:30",
+        "titre": "TP Deep Learning & Vision par Ordinateur",
+        "promo": "3A Intelligence Artificielle",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "12:30 - 18:00",
+        "titre": "Salle Libre",
+        "promo": "Accès étudiants",
+        "statut": "Libre",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": true,
+    "image": "images/131.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1131",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-131.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "132",
+    "feature_index": 25,
+    "numero": "132",
+    "nom": "Dépôt pédagogique 132",
+    "libelle": "Dépôt pédagogique",
+    "categorie": "depot",
+    "categorie_nom": "Dépôt / Réserve",
+    "surface": 10.9,
+    "capacite": "Variable",
+    "couleur": "#94a3b8",
+    "center": [
+      29.763,
+      43.034
+    ],
+    "polygon": [
+      [
+        30.381,
+        42.489
+      ],
+      [
+        30.429,
+        42.477
+      ],
+      [
+        30.429,
+        42.423
+      ],
+      [
+        25.494,
+        42.423
+      ],
+      [
+        25.495,
+        44.157
+      ],
+      [
+        31.318,
+        44.157
+      ],
+      [
+        31.317,
+        43.413
+      ],
+      [
+        30.994,
+        43.35
+      ],
+      [
+        30.684,
+        43.149
+      ],
+      [
+        30.469,
+        42.849
+      ],
+      [
+        30.381,
+        42.489
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1132",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-132.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "133",
+    "feature_index": 27,
+    "numero": "133",
+    "nom": "Salle de TP 133",
+    "libelle": "Salle de TP",
+    "categorie": "tp",
+    "categorie_nom": "Salle de TP Informatique",
+    "surface": 58.9,
+    "capacite": "38 places",
+    "couleur": "#0284c7",
+    "center": [
+      28.74,
+      51.605
+    ],
+    "polygon": [
+      [
+        25.536,
+        47.213
+      ],
+      [
+        25.537,
+        50.599
+      ],
+      [
+        25.613,
+        50.675
+      ],
+      [
+        25.612,
+        50.786
+      ],
+      [
+        25.976,
+        50.786
+      ],
+      [
+        25.976,
+        50.836
+      ],
+      [
+        26.026,
+        50.836
+      ],
+      [
+        26.026,
+        51.117
+      ],
+      [
+        26.171,
+        51.237
+      ],
+      [
+        26.17,
+        51.398
+      ],
+      [
+        26.026,
+        51.517
+      ],
+      [
+        26.026,
+        51.796
+      ],
+      [
+        25.976,
+        51.796
+      ],
+      [
+        25.976,
+        51.846
+      ],
+      [
+        25.609,
+        51.846
+      ],
+      [
+        25.608,
+        51.956
+      ],
+      [
+        25.536,
+        52.028
+      ],
+      [
+        25.54,
+        56.458
+      ],
+      [
+        29.751,
+        56.457
+      ],
+      [
+        29.751,
+        56.34
+      ],
+      [
+        29.869,
+        56.22
+      ],
+      [
+        30.009,
+        56.219
+      ],
+      [
+        30.307,
+        55.926
+      ],
+      [
+        30.306,
+        55.776
+      ],
+      [
+        30.425,
+        55.655
+      ],
+      [
+        30.586,
+        55.654
+      ],
+      [
+        30.706,
+        55.773
+      ],
+      [
+        30.707,
+        55.923
+      ],
+      [
+        31.011,
+        56.211
+      ],
+      [
+        31.15,
+        56.21
+      ],
+      [
+        31.271,
+        56.328
+      ],
+      [
+        31.272,
+        56.456
+      ],
+      [
+        31.318,
+        56.456
+      ],
+      [
+        31.318,
+        54.688
+      ],
+      [
+        30.429,
+        54.688
+      ],
+      [
+        30.429,
+        54.593
+      ],
+      [
+        30.381,
+        54.582
+      ],
+      [
+        30.469,
+        54.221
+      ],
+      [
+        30.684,
+        53.921
+      ],
+      [
+        30.994,
+        53.72
+      ],
+      [
+        31.318,
+        53.657
+      ],
+      [
+        31.317,
+        52.596
+      ],
+      [
+        31.367,
+        52.596
+      ],
+      [
+        31.317,
+        52.596
+      ],
+      [
+        31.318,
+        46.324
+      ],
+      [
+        31.282,
+        46.324
+      ],
+      [
+        31.162,
+        46.452
+      ],
+      [
+        30.721,
+        46.447
+      ],
+      [
+        30.716,
+        46.888
+      ],
+      [
+        30.596,
+        47.006
+      ],
+      [
+        30.434,
+        47.004
+      ],
+      [
+        30.316,
+        46.884
+      ],
+      [
+        30.321,
+        46.443
+      ],
+      [
+        29.88,
+        46.438
+      ],
+      [
+        29.769,
+        46.324
+      ],
+      [
+        26.527,
+        46.324
+      ],
+      [
+        26.464,
+        46.649
+      ],
+      [
+        26.263,
+        46.958
+      ],
+      [
+        25.963,
+        47.173
+      ],
+      [
+        25.602,
+        47.262
+      ],
+      [
+        25.591,
+        47.213
+      ],
+      [
+        25.536,
+        47.213
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "08:30 - 12:30",
+        "titre": "TP Sécurité des Réseaux & Pentest",
+        "promo": "3A Cybersécurité",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "12:30 - 18:00",
+        "titre": "Hackathon – Salle de prototypage",
+        "promo": "Équipes ensIIE",
+        "statut": "En cours",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/133.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1133",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-133.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "134",
+    "feature_index": 29,
+    "numero": "134",
+    "nom": "Dépôt pédagogique 134",
+    "libelle": "Dépôt pédagogique",
+    "categorie": "depot",
+    "categorie_nom": "Dépôt / Réserve",
+    "surface": 8.7,
+    "capacite": "Variable",
+    "couleur": "#94a3b8",
+    "center": [
+      23.197,
+      55.666
+    ],
+    "polygon": [
+      [
+        22.558,
+        55.569
+      ],
+      [
+        22.653,
+        55.569
+      ],
+      [
+        22.665,
+        55.52
+      ],
+      [
+        23.025,
+        55.609
+      ],
+      [
+        23.325,
+        55.824
+      ],
+      [
+        23.526,
+        56.134
+      ],
+      [
+        23.589,
+        56.458
+      ],
+      [
+        25.336,
+        56.458
+      ],
+      [
+        25.336,
+        52.364
+      ],
+      [
+        21.231,
+        56.458
+      ],
+      [
+        22.558,
+        56.458
+      ],
+      [
+        22.558,
+        55.569
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1134",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-134.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "135",
+    "feature_index": 30,
+    "numero": "135",
+    "nom": "Salle de TD 135",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 53.4,
+    "capacite": "32 places",
+    "couleur": "#3b82f6",
+    "center": [
+      41.346,
+      54.206
+    ],
+    "polygon": [
+      [
+        35.827,
+        51.765
+      ],
+      [
+        35.856,
+        51.772
+      ],
+      [
+        35.829,
+        51.968
+      ],
+      [
+        35.767,
+        52.132
+      ],
+      [
+        35.552,
+        52.432
+      ],
+      [
+        35.242,
+        52.633
+      ],
+      [
+        34.918,
+        52.696
+      ],
+      [
+        34.922,
+        56.456
+      ],
+      [
+        39.93,
+        56.456
+      ],
+      [
+        39.929,
+        56.363
+      ],
+      [
+        40.015,
+        56.275
+      ],
+      [
+        40.015,
+        55.832
+      ],
+      [
+        40.065,
+        55.832
+      ],
+      [
+        40.065,
+        55.782
+      ],
+      [
+        40.501,
+        55.782
+      ],
+      [
+        40.603,
+        55.678
+      ],
+      [
+        40.765,
+        55.677
+      ],
+      [
+        40.885,
+        55.795
+      ],
+      [
+        40.886,
+        55.946
+      ],
+      [
+        41.189,
+        56.234
+      ],
+      [
+        41.329,
+        56.233
+      ],
+      [
+        41.449,
+        56.351
+      ],
+      [
+        41.45,
+        56.456
+      ],
+      [
+        45.705,
+        56.456
+      ],
+      [
+        45.705,
+        56.367
+      ],
+      [
+        45.855,
+        56.337
+      ],
+      [
+        45.855,
+        56.297
+      ],
+      [
+        46.731,
+        56.297
+      ],
+      [
+        46.661,
+        56.013
+      ],
+      [
+        46.468,
+        55.744
+      ],
+      [
+        46.19,
+        55.564
+      ],
+      [
+        45.705,
+        55.467
+      ],
+      [
+        45.701,
+        52.041
+      ],
+      [
+        45.63,
+        51.971
+      ],
+      [
+        45.629,
+        51.871
+      ],
+      [
+        45.325,
+        51.871
+      ],
+      [
+        45.325,
+        51.821
+      ],
+      [
+        45.275,
+        51.82
+      ],
+      [
+        45.275,
+        51.533
+      ],
+      [
+        45.186,
+        51.534
+      ],
+      [
+        45.117,
+        51.466
+      ],
+      [
+        36.332,
+        51.457
+      ],
+      [
+        36.266,
+        51.524
+      ],
+      [
+        35.826,
+        51.527
+      ],
+      [
+        35.827,
+        51.765
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "09:00 - 12:00",
+        "titre": "TD Mathématiques pour l'Ingénieur",
+        "promo": "1A Groupe 4",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "12:00 - 18:00",
+        "titre": "Salle Libre (Travail en groupe)",
+        "promo": "Tous",
+        "statut": "Libre",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": true,
+    "image": "images/135.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1135",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-135.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "136",
+    "feature_index": 34,
+    "numero": "136",
+    "nom": "Salle de TD 136",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 53.5,
+    "capacite": "35 places",
+    "couleur": "#3b82f6",
+    "center": [
+      40.371,
+      38.022
+    ],
+    "polygon": [
+      [
+        35.807,
+        36.285
+      ],
+      [
+        35.856,
+        36.297
+      ],
+      [
+        35.767,
+        36.658
+      ],
+      [
+        35.552,
+        36.958
+      ],
+      [
+        35.242,
+        37.158
+      ],
+      [
+        34.918,
+        37.222
+      ],
+      [
+        34.918,
+        41.061
+      ],
+      [
+        35.012,
+        40.972
+      ],
+      [
+        35.452,
+        40.983
+      ],
+      [
+        35.463,
+        40.542
+      ],
+      [
+        35.585,
+        40.426
+      ],
+      [
+        35.746,
+        40.43
+      ],
+      [
+        35.863,
+        40.552
+      ],
+      [
+        35.852,
+        40.992
+      ],
+      [
+        36.293,
+        41.003
+      ],
+      [
+        36.362,
+        41.075
+      ],
+      [
+        45.032,
+        41.084
+      ],
+      [
+        45.154,
+        40.965
+      ],
+      [
+        45.595,
+        40.976
+      ],
+      [
+        45.605,
+        40.535
+      ],
+      [
+        45.7,
+        40.445
+      ],
+      [
+        45.7,
+        37.16
+      ],
+      [
+        46.186,
+        37.063
+      ],
+      [
+        46.463,
+        36.882
+      ],
+      [
+        46.656,
+        36.614
+      ],
+      [
+        46.725,
+        36.329
+      ],
+      [
+        45.849,
+        36.33
+      ],
+      [
+        45.849,
+        36.29
+      ],
+      [
+        45.749,
+        36.29
+      ],
+      [
+        45.749,
+        36.21
+      ],
+      [
+        45.699,
+        36.198
+      ],
+      [
+        41.389,
+        36.198
+      ],
+      [
+        41.333,
+        36.255
+      ],
+      [
+        40.892,
+        36.259
+      ],
+      [
+        40.897,
+        36.7
+      ],
+      [
+        40.779,
+        36.82
+      ],
+      [
+        40.617,
+        36.822
+      ],
+      [
+        40.497,
+        36.704
+      ],
+      [
+        40.492,
+        36.263
+      ],
+      [
+        40.052,
+        36.267
+      ],
+      [
+        39.981,
+        36.198
+      ],
+      [
+        35.807,
+        36.198
+      ],
+      [
+        35.807,
+        36.285
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "09:00 - 12:00",
+        "titre": "TD Économie & Management",
+        "promo": "2A",
+        "statut": "En cours",
+        "actuel": true
+      },
+      {
+        "heure": "14:00 - 17:00",
+        "titre": "TD Droit du Numérique",
+        "promo": "3A",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/136.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1136",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-136.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "137",
+    "feature_index": 39,
+    "numero": "137",
+    "nom": "Local technique 137",
+    "libelle": "Local technique",
+    "categorie": "technique",
+    "categorie_nom": "Local Technique",
+    "surface": 10.3,
+    "capacite": "Variable",
+    "couleur": "#64748b",
+    "center": [
+      34.972,
+      34.008
+    ],
+    "polygon": [
+      [
+        34.678,
+        33.742
+      ],
+      [
+        34.918,
+        33.722
+      ],
+      [
+        34.918,
+        34.9
+      ],
+      [
+        35.417,
+        34.9
+      ],
+      [
+        35.417,
+        35.998
+      ],
+      [
+        39.727,
+        35.998
+      ],
+      [
+        36.415,
+        32.792
+      ],
+      [
+        34.918,
+        32.792
+      ],
+      [
+        34.868,
+        32.852
+      ],
+      [
+        34.427,
+        32.921
+      ],
+      [
+        34.147,
+        33.107
+      ],
+      [
+        33.955,
+        33.383
+      ],
+      [
+        33.879,
+        33.722
+      ],
+      [
+        33.939,
+        34.065
+      ],
+      [
+        34.119,
+        34.349
+      ],
+      [
+        34.39,
+        34.547
+      ],
+      [
+        34.678,
+        34.618
+      ],
+      [
+        34.678,
+        33.742
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1137",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-137.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "138",
+    "feature_index": 18,
+    "numero": "138",
+    "nom": "Salle de TD 138",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 49.9,
+    "capacite": "28 places",
+    "couleur": "#3b82f6",
+    "center": [
+      39.243,
+      27.313
+    ],
+    "polygon": [
+      [
+        35.807,
+        28.298
+      ],
+      [
+        35.807,
+        28.36
+      ],
+      [
+        43.108,
+        28.36
+      ],
+      [
+        43.108,
+        28.305
+      ],
+      [
+        43.06,
+        28.293
+      ],
+      [
+        43.149,
+        27.933
+      ],
+      [
+        43.364,
+        27.633
+      ],
+      [
+        43.673,
+        27.432
+      ],
+      [
+        43.998,
+        27.369
+      ],
+      [
+        43.998,
+        22.706
+      ],
+      [
+        34.918,
+        22.706
+      ],
+      [
+        34.918,
+        27.362
+      ],
+      [
+        35.242,
+        27.425
+      ],
+      [
+        35.552,
+        27.626
+      ],
+      [
+        35.767,
+        27.926
+      ],
+      [
+        35.856,
+        28.286
+      ],
+      [
+        35.807,
+        28.298
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "10:00 - 12:30",
+        "titre": "TD Bases de Données Relationnelles",
+        "promo": "1A Groupe 2",
+        "statut": "En cours",
+        "actuel": true
+      },
+      {
+        "heure": "14:00 - 17:00",
+        "titre": "TD Génie Logiciel & Méthodes Agiles",
+        "promo": "2A Groupe 3",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/138.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1138",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-138.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "139",
+    "feature_index": 40,
+    "numero": "139",
+    "nom": "Salle de TD 139",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 56.7,
+    "capacite": "36 places",
+    "couleur": "#3b82f6",
+    "center": [
+      52.113,
+      23.244
+    ],
+    "polygon": [
+      [
+        45.898,
+        21.185
+      ],
+      [
+        45.898,
+        25.635
+      ],
+      [
+        46.222,
+        25.698
+      ],
+      [
+        46.531,
+        25.899
+      ],
+      [
+        46.747,
+        26.198
+      ],
+      [
+        46.835,
+        26.559
+      ],
+      [
+        46.787,
+        26.571
+      ],
+      [
+        46.787,
+        26.646
+      ],
+      [
+        54.418,
+        26.646
+      ],
+      [
+        54.482,
+        26.322
+      ],
+      [
+        54.682,
+        26.012
+      ],
+      [
+        54.982,
+        25.797
+      ],
+      [
+        55.218,
+        25.739
+      ],
+      [
+        55.242,
+        25.625
+      ],
+      [
+        55.379,
+        25.451
+      ],
+      [
+        55.379,
+        25.269
+      ],
+      [
+        55.242,
+        25.095
+      ],
+      [
+        55.206,
+        24.92
+      ],
+      [
+        55.255,
+        24.91
+      ],
+      [
+        55.255,
+        24.86
+      ],
+      [
+        55.379,
+        24.86
+      ],
+      [
+        55.379,
+        24.36
+      ],
+      [
+        55.254,
+        24.36
+      ],
+      [
+        55.254,
+        24.31
+      ],
+      [
+        55.205,
+        24.3
+      ],
+      [
+        55.242,
+        24.125
+      ],
+      [
+        55.379,
+        23.95
+      ],
+      [
+        55.379,
+        23.269
+      ],
+      [
+        55.242,
+        23.095
+      ],
+      [
+        55.205,
+        22.92
+      ],
+      [
+        55.254,
+        22.91
+      ],
+      [
+        55.254,
+        22.86
+      ],
+      [
+        55.379,
+        22.86
+      ],
+      [
+        55.379,
+        22.36
+      ],
+      [
+        55.255,
+        22.36
+      ],
+      [
+        55.255,
+        22.31
+      ],
+      [
+        55.206,
+        22.3
+      ],
+      [
+        55.242,
+        22.125
+      ],
+      [
+        55.379,
+        21.951
+      ],
+      [
+        55.379,
+        21.769
+      ],
+      [
+        55.242,
+        21.595
+      ],
+      [
+        55.206,
+        21.42
+      ],
+      [
+        55.255,
+        21.41
+      ],
+      [
+        55.255,
+        21.36
+      ],
+      [
+        55.379,
+        21.36
+      ],
+      [
+        55.379,
+        20.53
+      ],
+      [
+        48.05,
+        20.53
+      ],
+      [
+        48.0,
+        20.48
+      ],
+      [
+        48.0,
+        20.39
+      ],
+      [
+        45.978,
+        20.389
+      ],
+      [
+        46.007,
+        20.448
+      ],
+      [
+        46.003,
+        20.588
+      ],
+      [
+        46.144,
+        20.593
+      ],
+      [
+        46.201,
+        20.654
+      ],
+      [
+        46.193,
+        20.935
+      ],
+      [
+        46.131,
+        20.992
+      ],
+      [
+        45.991,
+        20.988
+      ],
+      [
+        45.987,
+        21.129
+      ],
+      [
+        45.898,
+        21.185
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Salle en libre accès – Travail collaboratif",
+        "promo": "Étudiants ensIIE",
+        "statut": "Libre",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1139",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-139.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "140",
+    "feature_index": 37,
+    "numero": "140",
+    "nom": "Salle serveur service informatique 140",
+    "libelle": "Salle serveur service informatique",
+    "categorie": "technique",
+    "categorie_nom": "Salle Serveur",
+    "surface": 27.7,
+    "capacite": "Variable",
+    "couleur": "#64748b",
+    "center": [
+      47.141,
+      31.22
+    ],
+    "polygon": [
+      [
+        46.534,
+        31.303
+      ],
+      [
+        46.444,
+        31.441
+      ],
+      [
+        46.381,
+        31.771
+      ],
+      [
+        46.445,
+        32.1
+      ],
+      [
+        46.636,
+        32.392
+      ],
+      [
+        46.923,
+        32.588
+      ],
+      [
+        47.252,
+        32.658
+      ],
+      [
+        47.583,
+        32.602
+      ],
+      [
+        47.835,
+        32.445
+      ],
+      [
+        47.216,
+        31.842
+      ],
+      [
+        47.295,
+        31.723
+      ],
+      [
+        47.491,
+        31.915
+      ],
+      [
+        47.561,
+        31.843
+      ],
+      [
+        49.139,
+        33.379
+      ],
+      [
+        52.364,
+        30.16
+      ],
+      [
+        49.056,
+        26.846
+      ],
+      [
+        45.898,
+        26.846
+      ],
+      [
+        45.898,
+        30.224
+      ],
+      [
+        46.011,
+        30.339
+      ],
+      [
+        46.008,
+        30.779
+      ],
+      [
+        46.449,
+        30.782
+      ],
+      [
+        46.568,
+        30.902
+      ],
+      [
+        46.566,
+        31.102
+      ],
+      [
+        46.45,
+        31.221
+      ],
+      [
+        46.534,
+        31.303
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1140",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-140.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "141",
+    "feature_index": 35,
+    "numero": "141",
+    "nom": "Salle de TD 141",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 45.3,
+    "capacite": "30 places",
+    "couleur": "#3b82f6",
+    "center": [
+      52.785,
+      33.257
+    ],
+    "polygon": [
+      [
+        49.918,
+        32.897
+      ],
+      [
+        49.944,
+        32.923
+      ],
+      [
+        49.987,
+        32.897
+      ],
+      [
+        50.181,
+        33.213
+      ],
+      [
+        50.244,
+        33.577
+      ],
+      [
+        50.169,
+        33.938
+      ],
+      [
+        49.99,
+        34.208
+      ],
+      [
+        50.959,
+        35.152
+      ],
+      [
+        50.924,
+        35.188
+      ],
+      [
+        50.974,
+        35.188
+      ],
+      [
+        50.974,
+        35.669
+      ],
+      [
+        51.026,
+        35.669
+      ],
+      [
+        51.085,
+        35.729
+      ],
+      [
+        51.083,
+        35.87
+      ],
+      [
+        51.224,
+        35.871
+      ],
+      [
+        51.283,
+        35.931
+      ],
+      [
+        51.282,
+        35.972
+      ],
+      [
+        51.783,
+        35.972
+      ],
+      [
+        51.783,
+        36.022
+      ],
+      [
+        51.818,
+        35.986
+      ],
+      [
+        52.766,
+        36.907
+      ],
+      [
+        52.731,
+        36.943
+      ],
+      [
+        52.781,
+        36.943
+      ],
+      [
+        52.781,
+        37.058
+      ],
+      [
+        56.673,
+        37.058
+      ],
+      [
+        56.679,
+        31.149
+      ],
+      [
+        56.528,
+        31.149
+      ],
+      [
+        56.528,
+        31.099
+      ],
+      [
+        56.478,
+        31.099
+      ],
+      [
+        56.478,
+        28.56
+      ],
+      [
+        55.449,
+        28.56
+      ],
+      [
+        55.45,
+        29.449
+      ],
+      [
+        55.355,
+        29.449
+      ],
+      [
+        55.343,
+        29.498
+      ],
+      [
+        54.982,
+        29.409
+      ],
+      [
+        54.682,
+        29.194
+      ],
+      [
+        54.482,
+        28.884
+      ],
+      [
+        54.418,
+        28.56
+      ],
+      [
+        54.25,
+        28.56
+      ],
+      [
+        49.918,
+        32.897
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "09:00 - 12:00",
+        "titre": "TD Projet Hackathon – Groupe D",
+        "promo": "1A & 2A",
+        "statut": "En cours",
+        "actuel": true
+      },
+      {
+        "heure": "14:00 - 17:30",
+        "titre": "Travaux dirigés – Projet intégratif",
+        "promo": "2A Groupe 4",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/141.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1141",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-141.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "142",
+    "feature_index": 38,
+    "numero": "142",
+    "nom": "Salle serveur étudiants 142",
+    "libelle": "Salle serveur étudiants",
+    "categorie": "technique",
+    "categorie_nom": "Salle Serveur",
+    "surface": 9.5,
+    "capacite": "Variable",
+    "couleur": "#64748b",
+    "center": [
+      52.989,
+      27.854
+    ],
+    "polygon": [
+      [
+        52.506,
+        30.019
+      ],
+      [
+        54.131,
+        28.397
+      ],
+      [
+        54.131,
+        27.837
+      ],
+      [
+        53.807,
+        27.774
+      ],
+      [
+        53.497,
+        27.573
+      ],
+      [
+        53.282,
+        27.273
+      ],
+      [
+        53.194,
+        26.912
+      ],
+      [
+        53.242,
+        26.901
+      ],
+      [
+        53.242,
+        26.846
+      ],
+      [
+        49.339,
+        26.846
+      ],
+      [
+        52.506,
+        30.019
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1142",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-142.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "143",
+    "feature_index": 32,
+    "numero": "143",
+    "nom": "Bureau 143 – Raphaël Jadot",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 12.6,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      53.529,
+      38.666
+    ],
+    "polygon": [
+      [
+        52.781,
+        37.579
+      ],
+      [
+        52.781,
+        38.719
+      ],
+      [
+        53.67,
+        38.719
+      ],
+      [
+        53.67,
+        38.813
+      ],
+      [
+        53.719,
+        38.825
+      ],
+      [
+        53.63,
+        39.186
+      ],
+      [
+        53.415,
+        39.486
+      ],
+      [
+        53.105,
+        39.686
+      ],
+      [
+        52.781,
+        39.75
+      ],
+      [
+        52.781,
+        40.316
+      ],
+      [
+        56.67,
+        40.318
+      ],
+      [
+        56.673,
+        37.258
+      ],
+      [
+        52.781,
+        37.26
+      ],
+      [
+        52.781,
+        37.579
+      ],
+      [
+        52.451,
+        37.579
+      ],
+      [
+        52.781,
+        37.579
+      ]
+    ],
+    "occupant": {
+      "responsable": "Raphaël Jadot",
+      "role": "Enseignant-Chercheur & DSI Réseaux",
+      "email": "raphael.jadot@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Raphaël Jadot",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Préparation de cours",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1143",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-143.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "144",
+    "numero": "144",
+    "nom": "Bureau 144 – Gaël Thomas",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 18.0,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      54.7,
+      43.25
+    ],
+    "polygon": [
+      [
+        52.78,
+        40.5
+      ],
+      [
+        56.67,
+        40.5
+      ],
+      [
+        56.67,
+        45.8
+      ],
+      [
+        52.78,
+        45.8
+      ],
+      [
+        52.78,
+        40.5
+      ]
+    ],
+    "occupant": {
+      "responsable": "Gaël Thomas, Mohamed Coulibaly, Nordine Aounallah",
+      "role": "Enseignants-Chercheurs (Systèmes Distribués)",
+      "email": "gael.thomas@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Gaël Thomas",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche & Encadrement",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1144",
+      "notes": "Clés au poste sécurité. Réf: INV-2026-R1-144.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "146",
+    "numero": "146",
+    "nom": "Bureau 146 – Mohamed Nordine",
+    "libelle": "Bureau",
+    "categorie": "bureau",
+    "categorie_nom": "Bureau Enseignant",
+    "surface": 21.0,
+    "capacite": "1 à 3 enseignants",
+    "couleur": "#16a34a",
+    "center": [
+      54.7,
+      48.85
+    ],
+    "polygon": [
+      [
+        52.78,
+        46.0
+      ],
+      [
+        56.67,
+        46.0
+      ],
+      [
+        56.67,
+        51.5
+      ],
+      [
+        52.78,
+        51.5
+      ],
+      [
+        52.78,
+        46.0
+      ]
+    ],
+    "occupant": {
+      "responsable": "Mohamed Nordine",
+      "role": "Enseignant-Chercheur (Informatique & Architectures)",
+      "email": "mohamed.nordine@ensiie.fr",
+      "dispo": "Sur rendez-vous"
+    },
+    "planning": [
+      {
+        "heure": "09h00 - 12h30",
+        "titre": "Permanence : Mohamed Nordine",
+        "promo": "Sur place",
+        "statut": "Disponible",
+        "actuel": true
+      },
+      {
+        "heure": "14h00 - 17h00",
+        "titre": "Recherche Architectures",
+        "promo": "En bureau",
+        "statut": "Disponible"
+      }
+    ],
+    "actuellement_libre": true,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1146",
+      "notes": "Clés au poste sécurité. Réf: INV-2026-R1-146.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "148",
+    "feature_index": 31,
+    "numero": "148",
+    "nom": "Salle de TD 148",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 49.6,
+    "capacite": "35 places",
+    "couleur": "#3b82f6",
+    "center": [
+      48.173,
+      49.912
+    ],
+    "polygon": [
+      [
+        45.819,
+        49.518
+      ],
+      [
+        45.868,
+        49.518
+      ],
+      [
+        45.886,
+        50.568
+      ],
+      [
+        46.02,
+        50.687
+      ],
+      [
+        46.021,
+        50.837
+      ],
+      [
+        46.324,
+        51.125
+      ],
+      [
+        46.464,
+        51.124
+      ],
+      [
+        46.584,
+        51.242
+      ],
+      [
+        46.586,
+        51.404
+      ],
+      [
+        46.467,
+        51.524
+      ],
+      [
+        46.327,
+        51.525
+      ],
+      [
+        46.029,
+        51.818
+      ],
+      [
+        46.03,
+        51.968
+      ],
+      [
+        45.905,
+        52.088
+      ],
+      [
+        45.905,
+        55.406
+      ],
+      [
+        46.229,
+        55.47
+      ],
+      [
+        46.538,
+        55.67
+      ],
+      [
+        46.753,
+        55.97
+      ],
+      [
+        46.842,
+        56.331
+      ],
+      [
+        46.794,
+        56.343
+      ],
+      [
+        46.794,
+        56.437
+      ],
+      [
+        45.905,
+        56.456
+      ],
+      [
+        47.871,
+        56.456
+      ],
+      [
+        50.781,
+        53.545
+      ],
+      [
+        50.781,
+        47.962
+      ],
+      [
+        50.457,
+        47.899
+      ],
+      [
+        50.148,
+        47.698
+      ],
+      [
+        49.932,
+        47.399
+      ],
+      [
+        49.844,
+        47.038
+      ],
+      [
+        49.892,
+        47.026
+      ],
+      [
+        49.892,
+        46.931
+      ],
+      [
+        50.781,
+        46.931
+      ],
+      [
+        50.781,
+        46.641
+      ],
+      [
+        50.739,
+        46.641
+      ],
+      [
+        50.68,
+        46.581
+      ],
+      [
+        50.68,
+        46.441
+      ],
+      [
+        50.539,
+        46.44
+      ],
+      [
+        50.48,
+        46.381
+      ],
+      [
+        50.481,
+        46.099
+      ],
+      [
+        50.54,
+        46.04
+      ],
+      [
+        50.681,
+        46.041
+      ],
+      [
+        50.681,
+        45.9
+      ],
+      [
+        50.741,
+        45.841
+      ],
+      [
+        50.781,
+        45.841
+      ],
+      [
+        50.781,
+        45.526
+      ],
+      [
+        45.873,
+        45.526
+      ],
+      [
+        45.879,
+        48.813
+      ],
+      [
+        45.869,
+        49.499
+      ],
+      [
+        45.819,
+        49.518
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "09:00 - 12:00",
+        "titre": "TD Réseaux & Protocoles",
+        "promo": "2A Groupe 5",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "14:00 - 17:30",
+        "titre": "TD Sécurité Informatique",
+        "promo": "3A",
+        "statut": "En cours",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/148.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1148",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-148.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "149",
+    "feature_index": 33,
+    "numero": "149",
+    "nom": "Salle de TD 149",
+    "libelle": "Salle de TD",
+    "categorie": "td",
+    "categorie_nom": "Salle de TD",
+    "surface": 43.2,
+    "capacite": "30 places",
+    "couleur": "#3b82f6",
+    "center": [
+      47.525,
+      41.101
+    ],
+    "polygon": [
+      [
+        45.877,
+        41.919
+      ],
+      [
+        45.873,
+        45.326
+      ],
+      [
+        50.781,
+        45.326
+      ],
+      [
+        50.781,
+        44.861
+      ],
+      [
+        49.892,
+        44.861
+      ],
+      [
+        49.892,
+        44.766
+      ],
+      [
+        49.844,
+        44.754
+      ],
+      [
+        49.932,
+        44.394
+      ],
+      [
+        50.148,
+        44.094
+      ],
+      [
+        50.457,
+        43.893
+      ],
+      [
+        50.781,
+        43.83
+      ],
+      [
+        50.781,
+        38.338
+      ],
+      [
+        48.664,
+        36.198
+      ],
+      [
+        46.788,
+        36.198
+      ],
+      [
+        46.788,
+        36.283
+      ],
+      [
+        46.836,
+        36.295
+      ],
+      [
+        46.748,
+        36.656
+      ],
+      [
+        46.534,
+        36.956
+      ],
+      [
+        46.224,
+        37.157
+      ],
+      [
+        45.9,
+        37.221
+      ],
+      [
+        45.9,
+        40.434
+      ],
+      [
+        46.005,
+        40.545
+      ],
+      [
+        45.995,
+        40.985
+      ],
+      [
+        46.435,
+        40.996
+      ],
+      [
+        46.552,
+        41.118
+      ],
+      [
+        46.548,
+        41.279
+      ],
+      [
+        46.426,
+        41.396
+      ],
+      [
+        46.187,
+        41.39
+      ],
+      [
+        46.187,
+        41.533
+      ],
+      [
+        46.137,
+        41.533
+      ],
+      [
+        46.137,
+        41.583
+      ],
+      [
+        45.98,
+        41.583
+      ],
+      [
+        45.975,
+        41.826
+      ],
+      [
+        45.877,
+        41.919
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "08:30 - 12:00",
+        "titre": "TD Systèmes d'Information",
+        "promo": "3A",
+        "statut": "Terminé"
+      },
+      {
+        "heure": "14:00 - 17:30",
+        "titre": "Projet Hackathon – Mentorat",
+        "promo": "Toutes promos",
+        "statut": "À venir"
+      }
+    ],
+    "actuellement_libre": false,
+    "image": "images/149.jpeg",
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1149",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-149.",
+      "statut_materiel": "Matériel conforme"
+    }
+  },
+  {
+    "id": "150",
+    "feature_index": 36,
+    "numero": "150",
+    "nom": "Dépôt pédagogique 150",
+    "libelle": "Dépôt pédagogique",
+    "categorie": "depot",
+    "categorie_nom": "Dépôt / Réserve",
+    "surface": 11.2,
+    "capacite": "Variable",
+    "couleur": "#94a3b8",
+    "center": [
+      44.627,
+      34.527
+    ],
+    "polygon": [
+      [
+        41.767,
+        35.998
+      ],
+      [
+        48.461,
+        35.998
+      ],
+      [
+        46.124,
+        33.633
+      ],
+      [
+        45.341,
+        33.633
+      ],
+      [
+        45.277,
+        33.958
+      ],
+      [
+        45.076,
+        34.267
+      ],
+      [
+        44.777,
+        34.482
+      ],
+      [
+        44.416,
+        34.571
+      ],
+      [
+        44.404,
+        34.523
+      ],
+      [
+        44.309,
+        34.523
+      ],
+      [
+        44.309,
+        33.633
+      ],
+      [
+        44.119,
+        33.633
+      ],
+      [
+        41.767,
+        35.998
+      ]
+    ],
+    "occupant": null,
+    "planning": [
+      {
+        "heure": "Toute la journée",
+        "titre": "Accès selon usage",
+        "promo": "Tous",
+        "statut": "Ouvert",
+        "actuel": true
+      }
+    ],
+    "actuellement_libre": false,
+    "image": null,
+    "infos_privees": {
+      "code_acces": "Badge Vigik #1150",
+      "notes": "Clés de secours au poste de sécurité RDC. Réf: INV-2026-R1-150.",
+      "statut_materiel": "Matériel conforme"
+    }
+  }
+]

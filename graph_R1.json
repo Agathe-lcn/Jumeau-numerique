@@ -1,0 +1,807 @@
+{
+  "nodes": {
+    "ESCALIER_SUD": {
+      "x": 39.0,
+      "y": 18.5,
+      "nom": "Escalier Principal (Sud)",
+      "voisins": [
+        {
+          "node": "HUB_CENTRAL",
+          "dist": 3.0
+        }
+      ]
+    },
+    "HUB_CENTRAL": {
+      "x": 36.0,
+      "y": 18.5,
+      "nom": "Hall Principal (R+1)",
+      "voisins": [
+        {
+          "node": "ESCALIER_SUD",
+          "dist": 3.0
+        },
+        {
+          "node": "ASCENSEUR",
+          "dist": 2.97
+        },
+        {
+          "node": "ROTONDE_ENTREE",
+          "dist": 3.3
+        },
+        {
+          "node": "HUB_EST",
+          "dist": 7.8
+        },
+        {
+          "node": "HUB_SUD_OUEST",
+          "dist": 7.57
+        }
+      ]
+    },
+    "ASCENSEUR": {
+      "x": 33.2,
+      "y": 19.5,
+      "nom": "Ascenseur R+1 (Accès PMR)",
+      "voisins": [
+        {
+          "node": "HUB_CENTRAL",
+          "dist": 2.97
+        },
+        {
+          "node": "SPINE_1",
+          "dist": 3.0
+        }
+      ]
+    },
+    "ROTONDE_ENTREE": {
+      "x": 36.0,
+      "y": 15.2,
+      "nom": "Rotonde 103 (Carrefour central)",
+      "voisins": [
+        {
+          "node": "HUB_CENTRAL",
+          "dist": 3.3
+        }
+      ]
+    },
+    "HUB_SUD_OUEST": {
+      "x": 28.5,
+      "y": 17.5,
+      "nom": "Jonction Sud-Ouest",
+      "voisins": [
+        {
+          "node": "HUB_CENTRAL",
+          "dist": 7.57
+        },
+        {
+          "node": "COUL_117_EST",
+          "dist": 6.0
+        },
+        {
+          "node": "COUL_OUEST_JONCT",
+          "dist": 18.0
+        }
+      ]
+    },
+    "HUB_EST": {
+      "x": 43.8,
+      "y": 18.5,
+      "nom": "Carrefour Amphis Est",
+      "voisins": [
+        {
+          "node": "HUB_CENTRAL",
+          "dist": 7.8
+        },
+        {
+          "node": "PORTE_101",
+          "dist": 4.0
+        },
+        {
+          "node": "COUL_EST_HUB",
+          "dist": 1.66
+        }
+      ]
+    },
+    "PORTE_101": {
+      "x": 43.8,
+      "y": 14.5,
+      "nom": "Porte Amphithéâtre 101",
+      "voisins": [
+        {
+          "node": "HUB_EST",
+          "dist": 4.0
+        },
+        {
+          "node": "PORTE_102",
+          "dist": 8.0
+        }
+      ]
+    },
+    "PORTE_102": {
+      "x": 43.8,
+      "y": 6.5,
+      "nom": "Porte Amphithéâtre 102",
+      "voisins": [
+        {
+          "node": "PORTE_101",
+          "dist": 8.0
+        }
+      ]
+    },
+    "COUL_117_EST": {
+      "x": 28.5,
+      "y": 11.5,
+      "nom": "Couloir Est Bureau 117",
+      "voisins": [
+        {
+          "node": "HUB_SUD_OUEST",
+          "dist": 6.0
+        },
+        {
+          "node": "COUL_117_SUD",
+          "dist": 2.9
+        }
+      ]
+    },
+    "COUL_117_SUD": {
+      "x": 28.5,
+      "y": 8.6,
+      "nom": "Angle Couloir Sud-Est",
+      "voisins": [
+        {
+          "node": "COUL_117_EST",
+          "dist": 2.9
+        },
+        {
+          "node": "COUL_SUD_104",
+          "dist": 3.0
+        }
+      ]
+    },
+    "COUL_SUD_104": {
+      "x": 25.5,
+      "y": 8.6,
+      "nom": "Porte Bureau 104 / 117",
+      "voisins": [
+        {
+          "node": "COUL_117_SUD",
+          "dist": 3.0
+        },
+        {
+          "node": "COUL_SUD_105",
+          "dist": 3.5
+        }
+      ]
+    },
+    "COUL_SUD_105": {
+      "x": 22.0,
+      "y": 8.6,
+      "nom": "Porte Bureau 105 / 116",
+      "voisins": [
+        {
+          "node": "COUL_SUD_104",
+          "dist": 3.5
+        },
+        {
+          "node": "COUL_SUD_106",
+          "dist": 2.7
+        }
+      ]
+    },
+    "COUL_SUD_106": {
+      "x": 19.3,
+      "y": 8.6,
+      "nom": "Porte Bureau 106 / 115",
+      "voisins": [
+        {
+          "node": "COUL_SUD_105",
+          "dist": 2.7
+        },
+        {
+          "node": "COUL_SUD_107",
+          "dist": 2.5
+        }
+      ]
+    },
+    "COUL_SUD_107": {
+      "x": 16.8,
+      "y": 8.6,
+      "nom": "Porte Bureau 107 / 114",
+      "voisins": [
+        {
+          "node": "COUL_SUD_106",
+          "dist": 2.5
+        },
+        {
+          "node": "COUL_SUD_108",
+          "dist": 2.4
+        }
+      ]
+    },
+    "COUL_SUD_108": {
+      "x": 14.4,
+      "y": 8.6,
+      "nom": "Porte Bureau 108",
+      "voisins": [
+        {
+          "node": "COUL_SUD_107",
+          "dist": 2.4
+        },
+        {
+          "node": "COUL_SUD_109",
+          "dist": 2.9
+        }
+      ]
+    },
+    "COUL_SUD_109": {
+      "x": 11.5,
+      "y": 8.6,
+      "nom": "Porte Bureau 109",
+      "voisins": [
+        {
+          "node": "COUL_SUD_108",
+          "dist": 2.9
+        },
+        {
+          "node": "COUL_SUD_110",
+          "dist": 1.0
+        }
+      ]
+    },
+    "COUL_SUD_110": {
+      "x": 10.5,
+      "y": 8.6,
+      "nom": "Porte Bureau 110",
+      "voisins": [
+        {
+          "node": "COUL_SUD_109",
+          "dist": 1.0
+        },
+        {
+          "node": "COUL_SUD_111",
+          "dist": 1.8
+        },
+        {
+          "node": "COUL_OUEST_112",
+          "dist": 2.4
+        }
+      ]
+    },
+    "COUL_SUD_111": {
+      "x": 8.7,
+      "y": 8.6,
+      "nom": "Porte Bureau 111",
+      "voisins": [
+        {
+          "node": "COUL_SUD_110",
+          "dist": 1.8
+        }
+      ]
+    },
+    "COUL_OUEST_112": {
+      "x": 10.5,
+      "y": 11.0,
+      "nom": "Porte Bureau 112",
+      "voisins": [
+        {
+          "node": "COUL_SUD_110",
+          "dist": 2.4
+        },
+        {
+          "node": "COUL_OUEST_113",
+          "dist": 2.5
+        }
+      ]
+    },
+    "COUL_OUEST_113": {
+      "x": 10.5,
+      "y": 13.5,
+      "nom": "Porte Bureau 113",
+      "voisins": [
+        {
+          "node": "COUL_OUEST_112",
+          "dist": 2.5
+        },
+        {
+          "node": "COUL_OUEST_JONCT",
+          "dist": 4.0
+        }
+      ]
+    },
+    "COUL_OUEST_JONCT": {
+      "x": 10.5,
+      "y": 17.5,
+      "nom": "Jonction Ouest",
+      "voisins": [
+        {
+          "node": "COUL_OUEST_113",
+          "dist": 4.0
+        },
+        {
+          "node": "HUB_SUD_OUEST",
+          "dist": 18.0
+        },
+        {
+          "node": "COUL_OUEST_118",
+          "dist": 5.0
+        }
+      ]
+    },
+    "COUL_OUEST_118": {
+      "x": 10.5,
+      "y": 22.5,
+      "nom": "Porte Bureau 118",
+      "voisins": [
+        {
+          "node": "COUL_OUEST_JONCT",
+          "dist": 5.0
+        },
+        {
+          "node": "COUL_OUEST_119",
+          "dist": 4.3
+        }
+      ]
+    },
+    "COUL_OUEST_119": {
+      "x": 10.5,
+      "y": 26.8,
+      "nom": "Porte Bureau 119 / Dépôt 128",
+      "voisins": [
+        {
+          "node": "COUL_OUEST_118",
+          "dist": 4.3
+        },
+        {
+          "node": "COUL_OUEST_120",
+          "dist": 3.0
+        }
+      ]
+    },
+    "COUL_OUEST_120": {
+      "x": 10.5,
+      "y": 29.8,
+      "nom": "Porte Bureau 120",
+      "voisins": [
+        {
+          "node": "COUL_OUEST_119",
+          "dist": 3.0
+        },
+        {
+          "node": "COUL_OUEST_121",
+          "dist": 4.2
+        }
+      ]
+    },
+    "COUL_OUEST_121": {
+      "x": 10.5,
+      "y": 34.0,
+      "nom": "Porte Salle TD 121 / TP 127",
+      "voisins": [
+        {
+          "node": "COUL_OUEST_120",
+          "dist": 4.2
+        },
+        {
+          "node": "COUL_OUEST_126",
+          "dist": 3.0
+        }
+      ]
+    },
+    "COUL_OUEST_126": {
+      "x": 10.5,
+      "y": 37.0,
+      "nom": "Porte Salle TD 126",
+      "voisins": [
+        {
+          "node": "COUL_OUEST_121",
+          "dist": 3.0
+        }
+      ]
+    },
+    "SPINE_1": {
+      "x": 33.2,
+      "y": 22.5,
+      "nom": "Couloir Central (Local 129)",
+      "voisins": [
+        {
+          "node": "ASCENSEUR",
+          "dist": 3.0
+        },
+        {
+          "node": "SPINE_2",
+          "dist": 3.0
+        }
+      ]
+    },
+    "SPINE_2": {
+      "x": 33.2,
+      "y": 25.5,
+      "nom": "Couloir Central (TD 138)",
+      "voisins": [
+        {
+          "node": "SPINE_1",
+          "dist": 3.0
+        },
+        {
+          "node": "SPINE_3",
+          "dist": 3.5
+        }
+      ]
+    },
+    "SPINE_3": {
+      "x": 33.2,
+      "y": 29.0,
+      "nom": "Couloir Central (TP 130)",
+      "voisins": [
+        {
+          "node": "SPINE_2",
+          "dist": 3.5
+        },
+        {
+          "node": "SPINE_4",
+          "dist": 4.5
+        }
+      ]
+    },
+    "SPINE_4": {
+      "x": 33.2,
+      "y": 33.5,
+      "nom": "Couloir Central (Technique 137)",
+      "voisins": [
+        {
+          "node": "SPINE_3",
+          "dist": 4.5
+        },
+        {
+          "node": "SPINE_5",
+          "dist": 4.5
+        }
+      ]
+    },
+    "SPINE_5": {
+      "x": 33.2,
+      "y": 38.0,
+      "nom": "Couloir Central (TD 136)",
+      "voisins": [
+        {
+          "node": "SPINE_4",
+          "dist": 4.5
+        },
+        {
+          "node": "SPINE_6",
+          "dist": 4.0
+        }
+      ]
+    },
+    "SPINE_6": {
+      "x": 33.2,
+      "y": 42.0,
+      "nom": "Couloir Central (TP 131)",
+      "voisins": [
+        {
+          "node": "SPINE_5",
+          "dist": 4.0
+        },
+        {
+          "node": "SPINE_7",
+          "dist": 3.4
+        }
+      ]
+    },
+    "SPINE_7": {
+      "x": 33.2,
+      "y": 45.4,
+      "nom": "Carrefour Central Nord",
+      "voisins": [
+        {
+          "node": "SPINE_6",
+          "dist": 3.4
+        },
+        {
+          "node": "COUL_NW_133",
+          "dist": 4.7
+        },
+        {
+          "node": "COUL_NE_1",
+          "dist": 1.8
+        }
+      ]
+    },
+    "COUL_NW_133": {
+      "x": 28.5,
+      "y": 45.4,
+      "nom": "Porte Salle TP 133 / Dépôt 132",
+      "voisins": [
+        {
+          "node": "SPINE_7",
+          "dist": 4.7
+        },
+        {
+          "node": "COUL_NW_123",
+          "dist": 5.02
+        }
+      ]
+    },
+    "COUL_NW_123": {
+      "x": 23.5,
+      "y": 45.0,
+      "nom": "Porte Amphithéâtre 123 / Dépôt 124",
+      "voisins": [
+        {
+          "node": "COUL_NW_133",
+          "dist": 5.02
+        },
+        {
+          "node": "COUL_NW_122",
+          "dist": 5.0
+        }
+      ]
+    },
+    "COUL_NW_122": {
+      "x": 18.5,
+      "y": 45.0,
+      "nom": "Porte Salle TD 122 / Dépôt 125",
+      "voisins": [
+        {
+          "node": "COUL_NW_123",
+          "dist": 5.0
+        }
+      ]
+    },
+    "COUL_NE_1": {
+      "x": 35.0,
+      "y": 45.4,
+      "nom": "Entrée Couloir Nord-Est",
+      "voisins": [
+        {
+          "node": "SPINE_7",
+          "dist": 1.8
+        },
+        {
+          "node": "COUL_NE_2",
+          "dist": 6.0
+        }
+      ]
+    },
+    "COUL_NE_2": {
+      "x": 41.0,
+      "y": 45.4,
+      "nom": "Carrefour TD 135 / TD 136",
+      "voisins": [
+        {
+          "node": "COUL_NE_1",
+          "dist": 6.0
+        },
+        {
+          "node": "COUL_NE_3",
+          "dist": 3.5
+        },
+        {
+          "node": "PORTE_135",
+          "dist": 5.6
+        },
+        {
+          "node": "PORTE_136",
+          "dist": 3.9
+        }
+      ]
+    },
+    "COUL_NE_3": {
+      "x": 44.5,
+      "y": 45.4,
+      "nom": "Carrefour TD 148 / TD 149",
+      "voisins": [
+        {
+          "node": "COUL_NE_2",
+          "dist": 3.5
+        },
+        {
+          "node": "PORTE_148",
+          "dist": 5.6
+        },
+        {
+          "node": "PORTE_149",
+          "dist": 3.9
+        },
+        {
+          "node": "COUL_NE_BUR_JUNCT",
+          "dist": 7.3
+        }
+      ]
+    },
+    "PORTE_135": {
+      "x": 41.0,
+      "y": 51.0,
+      "nom": "Porte Salle TD 135",
+      "voisins": [
+        {
+          "node": "COUL_NE_2",
+          "dist": 5.6
+        }
+      ]
+    },
+    "PORTE_136": {
+      "x": 41.0,
+      "y": 41.5,
+      "nom": "Porte Salle TD 136",
+      "voisins": [
+        {
+          "node": "COUL_NE_2",
+          "dist": 3.9
+        }
+      ]
+    },
+    "PORTE_148": {
+      "x": 44.5,
+      "y": 51.0,
+      "nom": "Porte Salle TD 148",
+      "voisins": [
+        {
+          "node": "COUL_NE_3",
+          "dist": 5.6
+        }
+      ]
+    },
+    "PORTE_149": {
+      "x": 44.5,
+      "y": 41.5,
+      "nom": "Porte Salle TD 149 / Dépôt 150",
+      "voisins": [
+        {
+          "node": "COUL_NE_3",
+          "dist": 3.9
+        }
+      ]
+    },
+    "COUL_NE_BUR_JUNCT": {
+      "x": 51.8,
+      "y": 45.4,
+      "nom": "Jonction Bureaux Est",
+      "voisins": [
+        {
+          "node": "COUL_NE_3",
+          "dist": 7.3
+        },
+        {
+          "node": "PORTE_146",
+          "dist": 3.1
+        },
+        {
+          "node": "PORTE_144",
+          "dist": 1.9
+        }
+      ]
+    },
+    "PORTE_146": {
+      "x": 51.8,
+      "y": 48.5,
+      "nom": "Porte Bureau 146",
+      "voisins": [
+        {
+          "node": "COUL_NE_BUR_JUNCT",
+          "dist": 3.1
+        }
+      ]
+    },
+    "PORTE_144": {
+      "x": 51.8,
+      "y": 43.5,
+      "nom": "Porte Bureau 144",
+      "voisins": [
+        {
+          "node": "COUL_NE_BUR_JUNCT",
+          "dist": 1.9
+        },
+        {
+          "node": "PORTE_143",
+          "dist": 4.7
+        }
+      ]
+    },
+    "PORTE_143": {
+      "x": 51.8,
+      "y": 38.8,
+      "nom": "Porte Bureau 143",
+      "voisins": [
+        {
+          "node": "PORTE_144",
+          "dist": 4.7
+        }
+      ]
+    },
+    "COUL_EST_HUB": {
+      "x": 44.5,
+      "y": 20.0,
+      "nom": "Accès Aile Est",
+      "voisins": [
+        {
+          "node": "HUB_EST",
+          "dist": 1.66
+        },
+        {
+          "node": "COUL_EST_139",
+          "dist": 4.5
+        }
+      ]
+    },
+    "COUL_EST_139": {
+      "x": 44.5,
+      "y": 24.5,
+      "nom": "Porte Salle TD 139",
+      "voisins": [
+        {
+          "node": "COUL_EST_HUB",
+          "dist": 4.5
+        },
+        {
+          "node": "COUL_EST_SERV",
+          "dist": 5.5
+        }
+      ]
+    },
+    "COUL_EST_SERV": {
+      "x": 44.5,
+      "y": 30.0,
+      "nom": "Porte Serveurs 140 / 142 / TD 141",
+      "voisins": [
+        {
+          "node": "COUL_EST_139",
+          "dist": 5.5
+        }
+      ]
+    }
+  },
+  "room_access": {
+    "101": "PORTE_101",
+    "102": "PORTE_102",
+    "103": "ROTONDE_ENTREE",
+    "104": "COUL_SUD_104",
+    "105": "COUL_SUD_105",
+    "106": "COUL_SUD_106",
+    "107": "COUL_SUD_107",
+    "108": "COUL_SUD_108",
+    "109": "COUL_SUD_109",
+    "110": "COUL_SUD_110",
+    "111": "COUL_SUD_111",
+    "112": "COUL_OUEST_112",
+    "113": "COUL_OUEST_113",
+    "114": "COUL_SUD_107",
+    "115": "COUL_SUD_106",
+    "116": "COUL_SUD_105",
+    "117": "COUL_SUD_104",
+    "118": "COUL_OUEST_118",
+    "119": "COUL_OUEST_119",
+    "120": "COUL_OUEST_120",
+    "121": "COUL_OUEST_121",
+    "122": "COUL_NW_122",
+    "123": "COUL_NW_123",
+    "124": "COUL_NW_123",
+    "125": "COUL_NW_122",
+    "126": "COUL_OUEST_126",
+    "127": "COUL_OUEST_121",
+    "128": "COUL_OUEST_119",
+    "129": "SPINE_1",
+    "130": "SPINE_3",
+    "131": "SPINE_6",
+    "132": "COUL_NW_133",
+    "133": "COUL_NW_133",
+    "134": "COUL_NW_123",
+    "135": "PORTE_135",
+    "136": "PORTE_136",
+    "137": "SPINE_4",
+    "138": "SPINE_2",
+    "139": "COUL_EST_139",
+    "140": "COUL_EST_SERV",
+    "141": "COUL_EST_SERV",
+    "142": "COUL_EST_SERV",
+    "143": "PORTE_143",
+    "144": "PORTE_144",
+    "146": "PORTE_146",
+    "148": "PORTE_148",
+    "149": "PORTE_149",
+    "150": "PORTE_149",
+    "ESCALIER_SUD": "ESCALIER_SUD",
+    "ASCENSEUR": "ASCENSEUR",
+    "VOUS_ETES_ICI": "ESCALIER_SUD"
+  }
+}
